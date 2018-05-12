@@ -1,0 +1,96 @@
+person,id,nnddId,birthday,birthplace,gender,raceOrEthnicity,sexualOrienation,type
+Adam McKay,Q350405,NA,17-Apr-1968,"Philadelphia, PA",Male,White,Straight,"Director, Producer"
+Alejandro González Iñárritu,Q55215,NA,15-Aug-1963,"Mexico City, Mexico",Male,Hispanic,Straight,"Director, Producer"
+Alicia Vikander,Q439314,NA,03-Oct-1988,"Gothenburg, Sweden",Female,White,Straight,Actor
+Anne Shirley,Q771213,NA,17-Apr-1918,"New York, NY",Female,White,Straight,Actor
+Anthony Harvey,Q543124,NA,03-Jun-1930,"London, England",Male,White,Straight,Director
+Arthur Kennedy,Q351838,NA,17-Feb-1914,"Worcester, MA",Male,White,Straight,Actor
+Barbara Harris,Q807461,NA,25-Jul-1935,"Evanston, IL",Female,White,Straight,Actor
+Barkhad Abdi,Q15381644,NA,10-Apr-1985,"Banaadir, Somali Democratic Republic",Male,Black,Straight,"Actor, Director"
+Barry Jenkins,Q26821227,NA,19-Nov-1979,"Miami, FL",Male,Black,Straight,"Actor, Producer"
+Ben Johnson,Q224054,NA,13-Jun-1918,"Foraker, OK",Male,White,Straight,Actor
+Benh Zeitlin,Q555180,NA,14-Oct-1982,"Manhattan, NY",Male,White,Straight,"Composer, Animator"
+Bennett Miller,Q817863,NA,30-Dec-1966,"New York, NY",Male,White,Straight,"Director, Producer"
+Betty Compson,Q255846,NA,19-Mar-1897,"Beaver, UT",Female,White,Straight,Actor
+Catalina Sandino Moreno,Q229972,NA,19-Apr-1981,"Bogota, Colombia",Female,Hispanic,Straight,Actor
+Chris Noonan,Q185846,NA,14-Nov-1952,"Sydney, Australia",Male,White,Straight,"Director, Producer"
+Colette Marchand,Q542637,NA,29-Apr-1925,"Paris, France",Female,White,Straight,Actor
+Corinne Griffith,Q272079,NA,21-Nov-1894,"Texarkana, TX",Female,White,Straight,"Actor, Producer"
+Damien Chazelle,Q18350026,NA,19-Jan-1985,"Providence, RI",Male,White,Straight,Director
+Daniel Kaluuya,Q510970,NA,24-Feb-1989,"London, England",Male,Black,Straight,Actor
+Daniel Massey,Q16230217,NA,10-Oct-1933,"London, England",Male,White,Straight,Actor
+Denis Villeneuve,Q548823,NA,03-Oct-1967,"Quebec, Canada",Male,White,Straight,Director
+Don Murray,Q950588,NA,31-Jul-1929,"Hollywood, CA",Male,White,Straight,Actor
+Emmanuelle Riva,Q436996,NA,24-Feb-1927,"Chenimenil, France",Female,White,Straight,Actor
+Fernando Meirelles,Q343293,NA,09-Nov-1955,"Sao Paulo, Brazil",Male,White,Straight,"Director, Producer"
+George Miller,Q408650,NA,03-Mar-1945,"Brisbane, Australia",Male,White,Straight,"Director, Producer"
+Gillo Pontecorvo,Q53031,NA,19-Nov-1919,"Rome, Italy",Male,White,Straight,Director
+Harry Carey,Q1586425,NA,16-Jan-1878,"The Bronx, NY",Male,White,Straight,Actor
+Henry King,Q577527,NA,24-Jan-1886,"Christiansburg, VI",Male,White,Straight,Director
+Herbert Brenon,Q957475,NA,13-Jan-1880,"Kingstown, Ireland",Male,White,Straight,Director
+Hiroshi Teshigahara,Q741623,NA,28-Jan-1927,"Tokyo, Japan",Male,Asian,Straight,Director
+Hugh Hudson,Q538578,NA,25-Aug-1936,"London, England",Male,White,Straight,"Director, Producer"
+Ida Kamińska,Q284087,NA,18-Sep-1899,"Odessa, Ukraine",Female,White,Straight,"Actor, Director"
+Jacki Weaver,Q241897,NA,25-May-1947,"Sydney, Australia",Female,White,Straight,Actor
+James Cagney,Q94041,NA,17-Jul-1899,"New York, NY",Male,White,Straight,Actor
+James Dunn,Q1442674,NA,02-Nov-1901,"New York, NY",Male,White,Straight,Actor
+James Stephenson,Q727015,NA,14-Apr-1889,"Selby, England",Male,White,Straight,Actor
+Jan Troell,Q381876,NA,23-Jul-1931,"Malmo, Sweden",Male,White,Straight,Actor
+Jane Alexander,Q242717,NA,28-Oct-1939,"Watford, England",Female,White,Straight,Actor
+Jason Miller,Q414321,NA,22-Apr-1939,"Queens, NY",Male,White,Straight,Actor
+Jocelyne LaGarde,Q455953,NA,01-Jan-1924,"Papeete, Tahiti",Female,White,Straight,Actor
+Joel Coen and Ethan Coen,NULL,NA,21-Sep-1957,"St. Louis Park, MI",Male,White,Straight,"Director, Producer"
+John Hawkes,Q419785,NA,11-Sep-1959,"Alexandria, MI",Male,White,Straight,Actor
+John Ireland,Q346133,NA,30-Jan-1914,"Vancouver, Canada",Male,White,Straight,Actor
+Julie Harris,Q3189219,NA,02-Dec,"Grosse Point, MC",Female,White,Straight,Actor
+June Squibb,Q13560481,NA,06-Nov-1929,"Vandalia, IL",Female,White,Straight,Actor
+Kenneth Lonergan,Q968840,NA,16-Oct-1962,"The Bronx, NY",Male,White,Straight,Director
+Kevin McCarthy,Q416145,NA,15-Feb-1914,"Seattle, WA",Male,White,Straight,Actor
+Lawrence Tibbett,Q940686,NA,15-Nov-1896,"Bakersfield, CA",Male,White,Straight,Actor
+Lee Daniels,Q555460,NA,24-Dec-1959,"Philadelphia, PA",Male,Black,Straight,"Producer, Director"
+Lenny Abrahamson,Q6522913,NA,30-Nov-1966,"Dublin, Ireland",Male,White,Straight,Director
+Lesley Manville,Q444410,NA,12-Mar-1956,"Brighton, England",Female,White,Straight,Actor
+Leslie Browne,Q451916,NA,29-Jun-1957,"New York, NY",Female,White,Straight,Actor
+Leslie Howard,Q340455,NA,03-Apr-1893,"London, England",Male,White,Straight,"Actor, Director"
+Louise Dresser,Q275952,NA,17-Oct-1878,"Evanston, IL",Female,White,Straight,Actor
+Lucas Hedges,Q17488953,NA,12-Dec-1966,"Brooklyn Heights, NY",Male,White,Straight,Actor
+Lupita Nyong'o,Q3840847,570/000380427/,1-Mar-1983,"Mexico City, Mexico",Female,Black,Straight,Actor
+Lynn Carlin,Q456228,NA,31-Jan-1938,"Los Angeles, CA",Female,White,Straight,Actor
+Mahershala Ali,Q360531,NA,16-Jan-1974,"Oakland, CA",Male,Black,Straight,Actor
+Margot Robbie,Q1924847,778/000400575/,02-Jul-1990,"Queensland, Australia",Female,White,Straight,Actor
+Mark Rylance,Q324572,NA,18-Jan-1960,"Kent, England",Male,White,Straight,Actor
+Michael Anderson,Q42256,NA,30-Jan-1920,"London, England",Male,White,Straight,Director
+Michael Chekhov,Q49492,NA,29-Aug-1891,"Saint Petersburg, Russia",Male,White,Straight,Actor
+Michael Dunn,Q6829990,NA,20-Oct-1934,"Shattuck, OK",Male,White,Straight,Actor
+Michael Lerner,Q363380,NA,22-Jun-1941,"Brooklyn, NY",Male,White,Straight,Actor
+Michael Radford,Q470601,NA,24-Feb-1946,"New Delhi, Indian",Male,White,Straight,Actor
+Michael V. Gazzo,Q218605,NA,05-Apr-1923,"Hillside, NJ",Male,White,Straight,Actor
+Michelle Williams,Q245766,362/000109035/,09-Sep-1980,"Kalispell, MT",Female,White,Straight,Actor
+Miliza Korjus,Q271465,NA,18-Aug-1909,"Warsaw, Poland",Female,White,Straight,Actor
+Morten Tyldum,Q3425142,NA,19-May-1967,"Bergen, Norway",Male,White,Straight,Director
+Nick Adams,Q1901917,NA,10-Jul-1931,"Nanticoke, PS",Male,White,Straight,Actor
+Patricia Collinge,Q177208,NA,20-Sep-1892,"Dublin, Ireland",Female,White,Straight,Actor
+Penelope Milford,Q443052,NA,23-Mar-1948,"St. Louis, MI",Female,White,Straight,Actor
+Peter Cattaneo,Q1241761,NA,01-Jul-1964,"London, England",Male,White,Straight,Actor
+Pietro Germi,Q53006,NA,14-Sep-1914,"Genoa, Liguria",Male,White,Straight,Actor
+Quvenzhané Wallis,Q1651742,NA,28-Aug-2003,"Houna, LO",Female,White,Straight,Actor
+Rachel Roberts,Q402196,NA,20-Sep-1927,Wales,Female,White,Straight,Actor
+Rinko Kikuchi,Q232499,NA,06-Jan-1981,"Kanagawa, Japan",Female,Asian,Straight,Actor
+Rob Marshall,Q353501,NA,17-Oct-1960,"Madison, WI",Male,White,Gay,Actor
+Robert Montgomery,Q2796467,NA,21-May-1904,"New York, NY",Male,White,Straight,Actor
+Robert Preston,Q1563879,NA,June- 8-1918,"Newton, Massachusetts, U.S.",Male,White,Straight,Actor
+Robert Shaw,Q492138,NA,9-August-1927," Lancashire, England",Male,White,Straight,Actor
+Robert Stevenson,Q415027,NA,31-March-1905,"Buxton, Derbyshire, England
+",Male,White,Straight,Director
+Robert Strauss,Q617972,NA,8-November-1913,"New York, USA",Male,White,Straight,Actor
+Rupert Crosse,Q945512,NA,29-November-1927,"New York, USA",Male,Black,Straight,Actor
+Ruth Negga,Q3453629,NA,7-January-1982,"Addis Ababa, Ethiopia",Female,Black,Straight,Actor
+Scott Hicks,Q951522,NA,4- March-1953,Uganda ,Male,White,Straight,"Director, Screenwriter"
+Sidney Franklin,Q385372,NA,21-March-1893,"San Francisco, USA",Male,White,Straight,"Director, Producer"
+Ted Wilde,Q1350928,NA,16-December-1889,"New York, USA",Male,White,Straight,Director
+Terry Moore,Q1902635,NA,7-January-1929,"California, USA",Female,White,Straight,Actor
+Thomas Mitchell,Q418582,NA,11-July-1892,"California, USA",Male,White,Straight,Actor
+Timothée Chalamet,Q19877770,NA,27-December-1995,"New York, USA",Male,White,Straight,Actor
+Tom McCarthy,Q360001,NA,07-Jun-1966,New Jersey,Male,White,Straight,Director
+Vivien Merchant,Q266397,NA,22-July-1929,"Manchester, England",Female,White,Straight,Actor
+William Hickey,Q8012301,NA,19-September-1927,"Brooklyn, NY",Male,White,Straight,Actor

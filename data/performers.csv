@@ -1,0 +1,1142 @@
+person,id,nnddId,birthday,birthplace,gender,raceOrEthnicity,sexualOrienation,type
+Gary Oldman,Q83492,550/000022484,21-Mar-1958,"New Cross, South London, England",Male,White,Straight,Actor
+Timothée Chalamet,Q19877770,NA,NA,NA,NA,NA,NA,NA
+Daniel Day-Lewis,Q166389,788/000022722,29-Apr-1957,"London, England",Male,White,Straight,Actor
+Daniel Kaluuya,Q510970,NA,NA,NA,NA,NA,NA,NA
+Denzel Washington,Q42101,665/000023596,28-Dec-1954,"Mount Vernon, NY",Male,Black,Straight,Actor
+Frances McDormand,Q204299,517/000025442,23-Jun-1957,"Chicago, IL",Female,White,Straight,Actor
+Sally Hawkins,Q233563,640/000347596,27-Apr-1976,"London, England",Female,White,NA,Actor
+Margot Robbie,Q1924847,NA,NA,NA,NA,NA,NA,NA
+Saoirse Ronan,Q228603,184/000272365,12-Apr-1994,New York City,Female,White,NA,Actor
+Meryl Streep,Q873,001/000024926,22-Jun-1949,"Summit, NJ",Female,White,Straight,Actor
+Guillermo del Toro,Q219124,569/000044437,9-Oct-1964,"Guadalajara, Jalisco, Mexico",Male,Hispanic,Straight,Film Director
+Christopher Nolan,Q25191,178/000160695,30-Jul-1970,"London, England",Male,White,Straight,Film Director
+Jordan Peele,Q3371986,161/000348114,21-Feb-1979,New York City,Male,Black,Straight,Actor
+Greta Gerwig,Q271967,260/000353198,4-Aug-1983,"Sacramento, CA",Female,White,NA,Actor
+Paul Thomas Anderson,Q25132,401/000108077,26-Jun-1970,"Studio City, CA",Male,White,Straight,Film Director
+Sam Rockwell,Q316446,926/000108602,5-Nov-1968,"Daly City, CA",Male,White,NA,Actor
+Willem Dafoe,Q188772,789/000022723,22-Jul-1955,"Appleton, WI",Male,White,Straight,Actor
+Woody Harrelson,Q201279,666/000023597,23-Jul-1961,"Midland, TX",Male,White,Straight,Actor
+Richard Jenkins,Q313043,044/000130651,2-Dec-1953,De,Male,White,NA,Actor
+Christopher Plummer,Q190523,316/000023247,13-Dec-1929,"Toronto, Ontario, Canada",Male,White,Straight,Actor
+Allison Janney,Q229487,258/000082012,19-Nov-1959,"Dayton, OH",Female,White,Straight,Actor
+Mary J. Blige,Q228909,242/000026164,11-Jan-1971,"Bronx, NY",Female,Black,Straight,Musician
+Lesley Manville,Q444410,NA,NA,NA,NA,NA,NA,NA
+Laurie Metcalf,Q236711,426/000025351,16-Jun-1955,"Carbondale, IL",Female,White,Straight,Actor
+Octavia Spencer,Q229254,304/000281458,25-May-1972,"Montgomery, AL",Female,Black,NA,Actor
+Casey Affleck,Q270730,339/000026261,12-Aug-1975,"Falmouth, MA",Male,White,Straight,Actor
+Andrew Garfield,Q23891,597/000269787,20-Aug-1983,"Los Angeles, CA",Male,White,Straight,Actor
+Ryan Gosling,Q193815,974/000050824,12-Nov-1980,"London, Ontario, Canada",Male,White,Straight,Actor
+Viggo Mortensen,Q171363,671/000030581,20-Oct-1958,"Manhattan, NY",Male,White,Straight,Actor
+Emma Stone,Q147077,665/000268858,6-Nov-1988,"Scottsdale, AZ",Female,White,NA,Actor
+Isabelle Huppert,Q106365,770/000092494,16-Mar-1953,"Paris, France",Female,White,Straight,Actor
+Ruth Negga,Q3453629,NA,NA,NA,NA,NA,NA,NA
+Natalie Portman,Q37876,040/000022971,9-Jun-1981,"Jerusalem, Israel",Female,White,Straight,Actor
+Damien Chazelle,Q18350026,NA,NA,NA,NA,NA,NA,NA
+Denis Villeneuve,Q548823,NA,NA,NA,NA,NA,NA,NA
+Mel Gibson,Q42229,583/000022517,3-Jan-1956,"Peekskill, NY",Male,White,Straight,"Actor, Film Director"
+Kenneth Lonergan,Q968840,NA,NA,NA,NA,NA,NA,NA
+Barry Jenkins,Q26821227,NA,NA,NA,NA,NA,NA,NA
+Mahershala Ali,Q360531,NA,NA,NA,NA,NA,NA,NA
+Jeff Bridges,Q174843,779/000022713,4-Dec-1949,"Los Angeles, CA",Male,White,Straight,Actor
+Lucas Hedges,Q17488953,NA,NA,NA,NA,NA,NA,NA
+Dev Patel,Q245075,924/000207303,23-Apr-1990,"London, England",Male,Asian/Indian,Straight,Actor
+Michael Shannon,Q41449,306/000344271,7-Aug-1974,"Lexington, KY",Male,White,Straight,Actor
+Viola Davis,Q229181,138/000131742,11-Aug-1965,"Saint Matthews, SC",Female,Black,Straight,Actor
+Naomie Harris,Q156586,854/000160374,6-Sep-1976,"London, England",Female,Black,Straight,Actor
+Nicole Kidman,Q37459,917/000022851,20-Jun-1967,"Honolulu, HI",Female,White,Straight,Actor
+Michelle Williams,Q245766,NA,NA,NA,NA,NA,NA,NA
+Leonardo DiCaprio,Q38111,581/000023512,11-Nov-1974,"Hollywood, CA",Male,White,Straight,Actor
+Bryan Cranston,Q23547,300/000130907,7-Mar-1956,"San Fernando Valley, CA",Male,White,Straight,Actor
+Matt Damon,Q175535,943/000022877,8-Oct-1970,"Cambridge, MA",Male,White,Straight,Actor
+Michael Fassbender,Q57147,397/000280554,2-Apr-1977,"Heidelberg, Germany",Male,White,Straight,Actor
+Eddie Redmayne,Q28288,467/000269657,6-Jan-1982,"London, England",Male,White,Straight,Actor
+Brie Larson,Q29328,625/000162139,1-Oct-1989,"Sacramento, CA",Female,White,NA,"Actor, Singer"
+Cate Blanchett,Q80966,222/000026144,14-May-1969,"Melbourne, Victoria, Australia",Female,White,Matter of Dispute,Actor
+Jennifer Lawrence,Q189490,597/000272778,15-Aug-1990,"Louisville, KY",Female,White,Straight,Actor
+Charlotte Rampling,Q234679,991/000086733,5-Feb-1945,"Sturmer, England",Female,White,Straight,Actor
+Alejandro G. Iñárritu,Q55215,NA,NA,NA,NA,NA,NA,NA
+Adam McKay,Q350405,NA,NA,NA,NA,NA,NA,NA
+George Miller,Q408650,NA,NA,NA,NA,NA,NA,NA
+Lenny Abrahamson,Q6522913,NA,NA,NA,NA,NA,NA,NA
+Tom McCarthy,Q360001,NA,NA,NA,NA,NA,NA,NA
+Mark Rylance,Q324572,NA,NA,NA,NA,NA,NA,NA
+Christian Bale,Q45772,877/000031784,30-Jan-1974,"Haverfordwest, Pembrokeshire, Wales",Male,White,Straight,Actor
+Tom Hardy,Q208026,704/000132308,15-Sep-1977,"London, England",Male,White,Straight,Actor
+Mark Ruffalo,Q41422,972/000044840,22-Nov-1967,"Kenosha, WI",Male,White,Straight,Actor
+Sylvester Stallone,Q40026,761/000023692,6-Jul-1946,New York City,Male,White,Straight,"Actor, Screenwriter, Film Director"
+Alicia Vikander,Q439314,NA,NA,NA,NA,NA,NA,NA
+Jennifer Jason Leigh,Q232902,868/000025793,5-Feb-1962,"Hollywood, CA",Female,White,Straight,Actor
+Rooney Mara,Q228766,787/000281941,17-Apr-1985,"Bedford, NY",Female,White,NA,Actor
+Rachel McAdams,Q190386,336/000089069,17-Nov-1978,"London, Ontario, Canada",Female,White,Straight,Actor
+Kate Winslet,Q202765,582/000023513,5-Oct-1975,"Reading, England",Female,White,Straight,Actor
+Steve Carell,Q216221,512/000026434,16-Aug-1962,"Concord, MA",Male,White,Straight,"Comic, Journalist"
+Bradley Cooper,Q205707,126/000108799,5-Jan-1975,"Philadelphia, PA",Male,White,Straight,Actor
+Benedict Cumberbatch,Q244674,634/000274809,19-Jul-1976,"London, England",Male,White,Straight,Actor
+Michael Keaton,Q138005,548/000023479,9-Sep-1951,"Coraopolis, PA",Male,White,Straight,Actor
+Julianne Moore,Q80405,670/000023601,3-Dec-1960,"Fort Bragg, NC",Female,White,Straight,Actor
+Marion Cotillard,Q8927,723/000136315,30-Sep-1975,"Paris, France",Female,White,Straight,Actor
+Felicity Jones,Q234447,299/000347255,17-Oct-1983,"Birmingham, England",Female,White,NA,Actor
+Rosamund Pike,Q230004,518/000109191,27-Jan-1979,"London, England",Female,White,Straight,Actor
+Reese Witherspoon,Q44063,813/000022747,22-Mar-1976,"New Orleans, LA",Female,White,Straight,Actor
+Richard Linklater,Q40035,360/000033261,30-Jul-1960,"Houston, TX",Male,White,Straight,Film Director
+Bennett Miller,Q817863,NA,NA,NA,NA,NA,NA,NA
+Wes Anderson,Q223687,461/000044329,1-May-1969,"Houston, TX",Male,White,Straight,Film Director
+Morten Tyldum,Q3425142,NA,NA,NA,NA,NA,NA,NA
+J. K. Simmons,Q150482,185/000026107,9-Jan-1955,"Detroit, MI",Male,White,Straight,Actor
+Robert Duvall,Q171736,008/000022939,5-Jan-1931,"San Diego, CA",Male,White,Straight,Actor
+Ethan Hawke,Q484615,884/000025809,6-Nov-1970,"Austin, TX",Male,White,Straight,Actor
+Edward Norton,Q125904,224/000026146,18-Aug-1969,"Boston, MA",Male,White,Straight,Actor
+Patricia Arquette,Q215976,207/000026129,8-Apr-1968,"Chicago, IL",Female,White,Straight,Actor
+Laura Dern,Q220901,564/000023495,10-Feb-1967,"Los Angeles, CA",Female,White,Straight,Actor
+Keira Knightley,Q42581,548/000026470,26-Mar-1985,"London, England",Female,White,Straight,Actor
+Matthew McConaughey,Q188955,583/000023514,4-Nov-1969,"Uvalde, TX",Male,White,Straight,Actor
+Bruce Dern,Q357001,658/000023589,4-Jun-1936,"Chicago, IL",Male,White,Straight,Actor
+Chiwetel Ejiofor,Q317343,133/000131737,10-Jul-1974,"London, England",Male,Black,NA,Actor
+Amy Adams,Q481832,835/000129448,20-Aug-1974,"Vicenza, Italy",Female,White,Straight,Actor
+Sandra Bullock,Q40791,601/000023532,26-Jul-1964,"Arlington, VA",Female,White,Straight,Actor
+Judi Dench,Q28054,824/000023755,9-Dec-1934,"York, North Yorkshire, England",Female,White,Straight,Actor
+Alfonso Cuarón,Q28028,179/000160696,28-Nov-1961,"Mexico City, Mexico",Male,Hispanic,Straight,Film Director
+David O. Russell,Q314342,382/000129992,20-Aug-1958,New York City,Male,White,Straight,Film Director
+Alexander Payne,Q313566,305/000031212,10-Feb-1961,"Omaha, NE",Male,White,Straight,"Film Director, Screenwriter"
+Steve McQueen,Q159347,606/000023537,24-Mar-1930,"Beech Grove, INDied: 7-Nov-1980",Male,White,Straight,Actor
+Martin Scorsese,Q41148,678/000022612,17-Nov-1942,"Flushing, NY",Male,White,Straight,Film Director
+Jared Leto,Q484523,438/000026360,26-Dec-1971,"Bossier City, LA",Male,White,Straight,"Actor, Singer"
+Barkhad Abdi,Q15381644,NA,NA,NA,NA,NA,NA,NA
+Jonah Hill,Q313388,728/000160248,20-Dec-1983,"Los Angeles, CA",Male,White,NA,Actor
+Lupita Nyong'o,Q3840847,NA,NA,NA,NA,NA,NA,NA
+Julia Roberts,Q40523,592/000022526,28-Oct-1967,"Smyrna, GA",Female,White,Straight,Actor
+June Squibb,Q13560481,NA,NA,NA,NA,NA,NA,NA
+Hugh Jackman,Q129591,189/000026111,12-Oct-1968,"Sydney, New South Wales, Australia",Male,White,Straight,Actor
+Joaquin Phoenix,Q185140,898/000025823,28-Oct-1974,"San Juan, Puerto Rico",Male,White,Straight,Actor
+Jessica Chastain,Q229313,011/000282162,29-Mar-1981,"Sonoma County, CA",Female,White,NA,Actor
+Emmanuelle Riva,Q436996,NA,NA,NA,NA,NA,NA,NA
+Quvenzhané Wallis,Q1651742,NA,NA,NA,NA,NA,NA,NA
+Naomi Watts,Q132616,882/000031789,28-Sep-1968,"Shoreham, England",Female,White,Straight,Actor
+Ang Lee,Q160726,394/000025319,23-Oct-1954,"Pingtung, Taiwan",Male,Asian,Straight,Film Director
+Michael Haneke,Q84199,430/000269620,23-Mar-1942,"Munich, Germany",Male,White,Straight,Film Director
+Benh Zeitlin,Q555180,NA,NA,NA,NA,NA,NA,NA
+Steven Spielberg,Q8877,734/000022668,18-Dec-1946,"Cincinnati, OH",Male,White,Straight,Film Director
+Christoph Waltz,Q76819,455/000213813,4-Oct-1956,NA,Male,White,Straight,Actor
+Alan Arkin,Q108283,777/000022711,26-Mar-1934,"Brooklyn, NY",Male,White,Straight,"Actor, Film Director, Musician"
+Robert De Niro,Q36949,765/000023696,17-Aug-1943,New York City,Male,White,Straight,Actor
+Philip Seymour Hoffman,Q180560,409/000027328,23-Jul-1967,"Fairport, NYDied: 2-Feb-2014",Male,White,Straight,Actor
+Tommy Lee Jones,Q170587,530/000022464,15-Sep-1946,"San Saba, TX",Male,White,Straight,Actor
+Anne Hathaway,Q36301,220/000032124,12-Nov-1982,"Brooklyn, NY",Female,White,Straight,Actor
+Sally Field,Q187033,897/000022831,6-Nov-1946,"Pasadena, CA",Female,White,Straight,Actor
+Helen Hunt,Q170574,554/000023485,15-Jun-1963,"Culver City, CA",Female,White,Straight,Actor
+Jacki Weaver,Q241897,NA,NA,NA,NA,NA,NA,NA
+Jean Dujardin,Q189422,303/000281457,19-Jun-1972,"Rueil-Malmaison, Hauts-de-Seine, France",Male,White,Straight,Actor
+Demián Bichir,Q449940,111/000347067,1-Aug-1963,"Mexico City, Mexico",Male,Hispanic,Straight,Actor
+George Clooney,Q23844,763/000022697,6-May-1961,"Lexington, KY",Male,White,Straight,Actor
+Brad Pitt,Q35332,688/000025613,18-Dec-1963,"Shawnee, OK",Male,White,Straight,Actor
+Glenn Close,Q372311,786/000024714,19-Mar-1947,"Greenwich, CT",Female,White,Straight,Actor
+Michel Hazanavicius,Q28556,302/000281456,29-Mar-1967,"Paris, France",Male,White,Straight,Film Director
+Woody Allen,Q25089,501/000022435,1-Dec-1935,"Brooklyn, NY",Male,White,Straight,"Film Director, Actor"
+Terrence Malick,Q215478,373/000086115,30-Nov-1943,"Ottawa, IL",Male,White,Straight,Film Director
+Kenneth Branagh,Q55294,813/000025738,10-Dec-1960,"Belfast, Northern Ireland",Male,White,Straight,"Actor, Film Director"
+Nick Nolte,Q188018,942/000022876,8-Feb-1941,"Omaha, NE",Male,White,Straight,Actor
+Max von Sydow,Q203215,803/000022737,10-Apr-1929,"Lund, Sweden",Male,White,Straight,Actor
+Bérénice Bejo,Q28487,121/000344086,7-Jul-1976,"Buenos Aires, Argentina",Female,White,Straight,Actor
+Melissa McCarthy,Q229048,791/000281945,26-Aug-1970,"Plainfield, IL",Female,White,Straight,Actor
+Janet McTeer,Q232292,244/000137830,8-May-1961,"Newcastle-upon-Tyne, England",Female,White,NA,Actor
+Colin Firth,Q162492,813/000043684,10-Sep-1960,"Grayshott, Hampshire, England",Male,White,Straight,Actor
+Javier Bardem,Q134895,733/000109406,1-Mar-1969,"Las Palmas de Gran Canaria, Canary Islands",Male,Hispanic,Straight,Actor
+Jesse Eisenberg,Q219512,459/000269649,5-Oct-1983,"Queens, NY",Male,White,NA,Actor
+James Franco,Q306403,188/000026110,19-Apr-1978,"Palo Alto, CA",Male,White,Straight,Actor
+Annette Bening,Q190602,585/000025510,29-May-1958,"Topeka, KS",Female,White,Straight,Actor
+Tom Hooper,Q295912,093/000268286,1972,"London, England",Male,White,NA,Film Director
+Darren Aronofsky,Q192762,197/000033098,12-Feb-1969,"Brooklyn, NY",Male,White,Straight,Film Director
+David Fincher,Q184903,445/000031352,28-Aug-1962,"Denver, CO",Male,White,Straight,Film Director
+Joel Coen and Ethan Coen,NULL,NA,NA,NA,NA,NA,NA,NA
+John Hawkes,Q419785,NA,NA,NA,NA,NA,NA,NA
+Jeremy Renner,Q23365,181/000160698,7-Jan-1971,"Modesto, CA",Male,White,Straight,Actor
+Geoffrey Rush,Q166272,126/000025051,6-Jul-1951,"Toowoomba, Queensland, Australia",Male,White,Straight,Actor
+Melissa Leo,Q229410,327/000042201,14-Sep-1960,New York City,Female,White,Straight,Actor
+Helena Bonham Carter,Q170428,073/000025995,26-May-1966,"London, England",Female,White,Straight,Actor
+Hailee Steinfeld,Q231726,482/000269672,11-Dec-1996,"Los Angeles, CA",Female,White,NA,Actor
+Morgan Freeman,Q48337,982/000023913,1-Jun-1937,"Memphis, TN",Male,Black,Straight,Actor
+Helen Mirren,Q349391,907/000044775,26-Jul-1945,"Chiswick, London, England",Female,White,Straight,Actor
+Carey Mulligan,Q219655,070/000227386,28-May-1985,"London, England",Female,White,Straight,Actor
+Gabourey Sidibe,Q230113,624/000346583,6-May-1983,"Brooklyn, NY",Female,Black,NA,Actor
+Kathryn Bigelow,Q34816,837/000079600,27-Nov-1951,"San Carlos, CA",Female,White,Straight,Film Director
+James Cameron,Q42574,385/000025310,16-Aug-1954,"Kapuskasing, Ontario, Canada",Male,White,Straight,"Film Director, Screenwriter, Film/TV Producer"
+Quentin Tarantino,Q3772,664/000023595,27-Mar-1963,"Knoxville, TN",Male,White,Straight,"Film Director, Screenwriter, Actor"
+Lee Daniels,Q555460,NA,NA,NA,NA,NA,NA,NA
+Jason Reitman,Q314502,458/000213816,19-Oct-1977,"Montreal, Quebec, Canada",Male,White,Straight,Film Director
+Stanley Tucci,Q223117,805/000043676,11-Jan-1960,"Katonah, NY",Male,White,Straight,Actor
+Mo'Nique,Q229169,836/000131443,11-Dec-1967,"Woodlawn, MD",Female,Black,Straight,Actor
+Penélope Cruz,Q39666,748/000025673,28-Apr-1974,"Madrid, Spain",Female,Hispanic,Straight,Actor
+Vera Farmiga,Q264840,744/000122378,6-Aug-1973,"Livingston, NJ",Female,White,Straight,Actor
+Maggie Gyllenhaal,Q202381,235/000027154,16-Nov-1977,New York City,Female,White,Straight,Actor
+Anna Kendrick,Q67701,633/000345595,9-Aug-1985,"Portland, ME",Female,White,NA,Actor
+Sean Penn,Q44221,331/000025256,17-Aug-1960,"Burbank, CA",Male,White,Straight,"Actor, Activist"
+Frank Langella,Q310944,141/000024069,1-Jan-1938,"Bayonne, NJ",Male,White,Matter of Dispute,Actor
+Mickey Rourke,Q178552,466/000025391,16-Sep-1952,"Schenectady, NY",Male,White,Straight,"Actor, Boxing"
+Angelina Jolie,Q13909,493/000023424,4-Jun-1975,"Los Angeles, CA",Female,White,Bisexual,"Actor, Activist"
+Danny Boyle,Q134867,887/000044755,20-Oct-1956,"Manchester, England",Male,White,Straight,Film Director
+Ron Howard,Q103646,365/000025290,1-Mar-1954,"Duncan, OK",Male,White,Straight,"Actor, Film Director, Film/TV Producer"
+Gus Van Sant,Q25186,551/000022485,24-Jul-1952,"Louisville, KY",Male,White,Gay,Film Director
+Stephen Daldry,Q313506,875/000196287,2-May-1961,"Dorset, England",Male,White,Bisexual,Film Director
+Heath Ledger,Q40572,204/000029117,4-Apr-1979,"Perth, Australia",Male,White,Straight,Actor
+Josh Brolin,Q41396,395/000057224,12-Feb-1968,"Los Angeles, CA",Male,White,Straight,Actor
+Robert Downey Jr.,Q165219,597/000022531,4-Apr-1965,New York City,Male,White,Straight,Actor
+Taraji P. Henson,Q235511,608/000161125,11-Sep-1970,"Washington, DC",Female,Black,Straight,Actor
+Marisa Tomei,Q191828,985/000025910,4-Dec-1964,"Brooklyn, NY",Female,White,Straight,Actor
+Johnny Depp,Q37175,902/000022836,9-Jun-1963,"Owensboro, KY",Male,White,Straight,Actor
+Julie Christie,Q181413,801/000063612,14-Apr-1941,"Chabua, Assam, India",Female,White,Straight,Actor
+Laura Linney,Q223281,573/000031480,5-Feb-1964,New York City,Female,White,Straight,Actor
+Ellen Page,Q173399,433/000133034,21-Feb-1987,"Halifax, Nova Scotia, Canada",Female,White,Lesbian,Actor
+Tony Gilroy,Q353117,022/000354954,11-Sep-1956,"Manhattan, NY",Male,White,Straight,"Screenwriter, Film Director"
+Julian Schnabel,Q345379,814/000165319,26-Oct-1951,"Brooklyn, NY",Male,White,Straight,"Film Director, Painter"
+Hal Holbrook,Q314801,000/000022931,17-Feb-1925,"Cleveland, OH",Male,White,Straight,Actor
+Tom Wilkinson,Q211322,774/000107453,12-Dec-1948,"Leeds, Yorkshire, England",Male,White,NA,Actor
+Tilda Swinton,Q200534,178/000108851,5-Nov-1960,"London, England",Female,White,Straight,Actor
+Ruby Dee,Q234360,673/000083424,27-Oct-1924,"Cleveland, OHDied: 12-Jun-2014",Female,Black,Straight,Actor
+Amy Ryan,Q231203,362/000163870,30-Nov-1969,"Queens, NY",Female,White,NA,Actor
+Forest Whitaker,Q182763,833/000025758,15-Jul-1961,"Longview, TX",Male,Black,Straight,Actor
+Peter O'Toole,Q103876,480/000026402,2-Aug-1932,"Connemara, Ireland",Male,White,Straight,Actor
+Will Smith,Q40096,940/000025865,25-Sep-1968,"Philadelphia, PA",Male,Black,Straight,"Actor, Rapper"
+Alejandro González Iñárritu,Q55215,NA,NA,NA,NA,NA,NA,NA
+Clint Eastwood,Q43203,849/000022783,31-May-1930,"San Francisco, CA",Male,White,Straight,"Actor, Film Director"
+Stephen Frears,Q55258,752/000032656,20-Jun-1941,"Leicester, England",Male,White,Straight,Film Director
+Paul Greengrass,Q356275,020/000115672,13-Aug-1955,"Cheam, Surrey, England",Male,White,NA,Film Director
+Jackie Earle Haley,Q314841,557/000132161,14-Jul-1961,"Northridge, CA",Male,White,Straight,Actor
+Djimon Hounsou,Q298682,380/000108056,24-Apr-1964,"Cotonou, Benin",Male,Black,Straight,Actor
+Eddie Murphy,Q43874,544/000022478,3-Apr-1961,"Brooklyn, NY",Male,Black,Matter of Dispute,"Comic, Actor"
+Mark Wahlberg,Q164119,933/000023864,5-Jun-1971,"Dorchester, MA",Male,White,Straight,"Actor, Rapper"
+Jennifer Hudson,Q192410,434/000129047,12-Sep-1981,"Chicago, IL",Female,Black,Straight,"Actor, Singer"
+Adriana Barraza,Q235233,291/000354226,5-Mar-1956,"Toluca, Mexico",Female,Hispanic,Straight,Actor
+Abigail Breslin,Q201418,434/000138020,14-Apr-1996,New York City,Female,White,NA,Actor
+Rinko Kikuchi,Q232499,NA,NA,NA,NA,NA,NA,NA
+Terrence Howard,Q296500,013/000108686,11-Mar-1969,"Chicago, IL",Male,Black,Straight,Actor
+David Strathairn,Q310318,467/000092191,26-Jan-1949,"San Francisco, CA",Male,White,Straight,Actor
+Felicity Huffman,Q190519,891/000107570,9-Dec-1962,"Bedford, NY",Female,White,Straight,Actor
+Charlize Theron,Q80046,146/000026068,7-Aug-1975,"Benoni, South Africa",Female,White,Straight,"Actor, Model"
+Paul Haggis,Q314935,576/000162090,10-Mar-1953,"London, Ontario, Canada",Male,White,Straight,"Screenwriter, Film/TV Producer, Film Director"
+Matt Dillon,Q193070,944/000025869,18-Feb-1964,"New Rochelle, NY",Male,White,Straight,Actor
+Paul Giamatti,Q208649,594/000024522,6-Jun-1967,New York City,Male,White,Straight,Actor
+Jake Gyllenhaal,Q133313,215/000029128,19-Dec-1980,"Los Angeles, CA",Male,White,Straight,Actor
+William Hurt,Q105825,683/000023614,20-Mar-1950,"Washington, DC",Male,White,Straight,Actor
+Rachel Weisz,Q134077,309/000032213,7-Mar-1971,"London, England",Female,White,Straight,Actor
+Catherine Keener,Q230378,244/000049097,23-Mar-1959,"Miami, FL",Female,White,Straight,Actor
+Jamie Foxx,Q171905,113/000026035,13-Dec-1967,"Terrell, TX",Male,Black,Straight,"Comic, Actor, Singer"
+Don Cheadle,Q272019,984/000025909,29-Nov-1964,"Kansas City, MO",Male,Black,Straight,Actor
+Hilary Swank,Q93187,333/000026255,30-Jul-1974,"Lincoln, NE",Female,White,Straight,Actor
+Catalina Sandino Moreno,Q229972,NA,NA,NA,NA,NA,NA,NA
+Imelda Staunton,Q234798,698/000131305,9-Jan-1956,"London, England",Female,White,Straight,Actor
+Taylor Hackford,Q545573,908/000044776,31-Dec-1944,"Santa Barbara, CA",Male,White,Straight,Film Director
+Mike Leigh,Q315756,220/000059043,20-Feb-1943,"Salford, Lancashrie, England",Male,White,Straight,Film Director
+Alan Alda,Q310394,887/000023818,28-Jan-1936,New York City,Male,White,Straight,Actor
+Thomas Haden Church,Q311615,902/000087641,17-Jun-1960,"El Paso, TX",Male,White,Straight,Actor
+Clive Owen,Q183178,824/000043695,3-Oct-1964,"Keresley, Coventry, Warwickshire, England",Male,White,Straight,Actor
+Virginia Madsen,Q229784,931/000025856,11-Sep-1961,"Chicago, IL",Female,White,Straight,Actor
+Sophie Okonedo,Q238864,617/000132221,1-Jan-1969,"London, England",Female,Multiracial,Straight,Actor
+Ben Kingsley,Q173158,519/000024447,31-Dec-1943,"Scarborough, Yorkshire, England",Male,Multiracial,Straight,Actor
+Jude Law,Q160432,701/000024629,29-Dec-1972,"Lewisham, London, England",Male,White,Straight,Actor
+Bill Murray,Q29250,537/000024465,21-Sep-1950,"Wilmette, IL",Male,White,Straight,"Actor, Comic"
+Keisha Castle-Hughes,Q466150,010/000119650,24-Mar-1990,"Donnybrook, Western Australia, Australia",Female,Multiracial,NA,Actor
+Diane Keaton,Q102642,879/000022813,5-Jan-1946,"Los Angeles, CA",Female,White,Straight,Actor
+Samantha Morton,Q230190,486/000112150,13-May-1977,"Nottingham, Nottinghamshire, England",Female,White,Straight,Actor
+Peter Jackson,Q4465,848/000025773,31-Oct-1961,"Wellington, New Zealand",Male,White,Straight,Film Director
+Fernando Meirelles,Q343293,NA,NA,NA,NA,NA,NA,NA
+Sofia Coppola,Q193628,405/000041282,14-May-1971,New York City,Female,White,Straight,"Film Director, Actor"
+Peter Weir,Q55424,606/000024534,8-Aug-1944,"Sydney, New South Wales, Australia",Male,White,Straight,Film Director
+Tim Robbins,Q95048,614/000025539,16-Oct-1958,"West Covina, CA",Male,White,Straight,"Actor, Activist"
+Alec Baldwin,Q170572,681/000022615,3-Apr-1958,"Amityville, NY",Male,White,Straight,Actor
+Benicio del Toro,Q193668,087/000026009,19-Feb-1967,"Santurce, Puerto Rico",Male,Hispanic,Straight,Actor
+Ken Watanabe,Q211553,416/000110086,21-Oct-1959,"Koide, Niigata, Japan",Male,Asian,Straight,Actor
+Renée Zellweger,Q122614,708/000024636,25-Apr-1969,"Katy, TX",Female,White,Straight,Actor
+Shohreh Aghdashloo,Q229766,530/000162044,11-May-1952,"Tehran, Iran",Female,Middle Eastern,Straight,Actor
+Patricia Clarkson,Q229268,607/000044475,29-Dec-1959,"New Orleans, LA",Female,White,Straight,Actor
+Marcia Gay Harden,Q228931,641/000025566,14-Aug-1959,"La Jolla, CA",Female,White,Straight,Actor
+Holly Hunter,Q105660,566/000023497,20-Mar-1958,"Conyers, GA",Female,White,Straight,Actor
+Adrien Brody,Q104514,112/000026034,14-Apr-1973,New York City,Male,White,Straight,Actor
+Nicolas Cage,Q42869,751/000022685,7-Jan-1964,"Long Beach, CA",Male,White,Straight,Actor
+Michael Caine,Q123351,754/000022688,14-Mar-1933,"Bermondsey, England",Male,White,Straight,Actor
+Jack Nicholson,Q39792,722/000022656,22-Apr-1937,New York City,Male,White,Straight,Actor
+Salma Hayek,Q125106,258/000024186,2-Sep-1966,"Coatzacoalcos, Mexico",Female,Hispanic,Straight,Actor
+Diane Lane,Q255070,049/000025971,22-Jan-1965,New York City,Female,White,Straight,"Actor, Model"
+Roman Polanski,Q51552,541/000023472,18-Aug-1933,"Paris, France",Male,White,Straight,Film Director
+Rob Marshall,Q353501,NA,NA,NA,NA,NA,NA,NA
+Pedro Almodóvar,Q55171,145/000025070,25-Sep-1951,"Calzada de Calatrava, Ciudad Real, Castilla-La Mancha, Spain",Male,Hispanic,Gay,Film Director
+Chris Cooper,Q273208,130/000025055,9-Jul-1951,"Kansas City, MO",Male,White,Straight,Actor
+Ed Harris,Q104791,107/000025032,28-Nov-1950,"Englewood, NJ",Male,White,Straight,Actor
+Paul Newman,Q41871,804/000022738,26-Jan-1925,"Shaker Heights, OHDied: 26-Sep-2008",Male,White,Straight,"Actor, Philanthropist, Film Director"
+John C. Reilly,Q223110,214/000029127,24-May-1965,"Chicago, IL",Male,White,Straight,Actor
+Christopher Walken,Q185051,618/000022552,31-Mar-1943,"Astoria, NY",Male,White,Straight,Actor
+Catherine Zeta-Jones,Q47664,516/000023447,25-Sep-1969,"Mumbles, Wales",Female,White,Straight,Actor
+Kathy Bates,Q544465,907/000024835,28-Jun-1948,"Memphis, TN",Female,White,Straight,Actor
+Queen Latifah,Q1112005,230/000026152,18-Mar-1970,"East Orange, NJ",Female,Black,Matter of Dispute,"Rapper, Actor, Business"
+Russell Crowe,Q129817,782/000022716,7-Apr-1964,"Wellington, New Zealand",Male,White,Straight,Actor
+Halle Berry,Q1033016,487/000023418,14-Aug-1966,"Cleveland, OH",Female,Multiracial,Straight,Actor
+Sissy Spacek,Q190994,758/000023689,25-Dec-1949,"Quitman, TX",Female,White,Straight,Actor
+Ridley Scott,Q56005,949/000022883,30-Nov-1937,"South Shields, Northumberland, England",Male,White,Straight,"Film Director, Film/TV Producer"
+Robert Altman,Q55163,002/000022933,20-Feb-1925,"Kansas City, MODied: 20-Nov-2006",Male,White,Straight,Film Director
+David Lynch,Q2071,720/000024648,20-Jan-1946,"Missoula, MT",Male,White,Straight,Film Director
+Jim Broadbent,Q185079,092/000063900,24-May-1949,"Lincoln, Lincolnshire, England",Male,White,Straight,Actor
+Ian McKellen,Q170510,084/000024012,25-May-1939,"Burnley, Lancashire, England",Male,White,Gay,Actor
+Jon Voight,Q167520,060/000023988,29-Dec-1938,"Yonkers, NY",Male,White,Straight,Actor
+Jennifer Connelly,Q103343,240/000026162,12-Dec-1970,"Catskill Mountains, NY",Female,White,Straight,Actor
+Maggie Smith,Q172653,260/000030170,28-Dec-1934,"Ilford, Essex, England",Female,White,Straight,Actor
+Tom Hanks,Q2263,687/000022621,9-Jul-1956,"Concord, CA",Male,White,Straight,Actor
+Joan Allen,Q229305,464/000025389,20-Aug-1956,"Rochelle, IL",Female,White,Straight,Actor
+Juliette Binoche,Q106275,970/000025895,9-Mar-1964,"Paris, France",Female,White,Straight,"Actor, Model"
+Ellen Burstyn,Q211144,650/000023581,7-Dec-1932,"Detroit, MI",Female,White,Straight,Actor
+Steven Soderbergh,Q103917,907/000025832,14-Jan-1963,"Atlanta, GA",Male,White,Straight,Film Director
+Albert Finney,Q219546,903/000023834,9-May-1936,"Salford, Lancashire, England",Male,White,Straight,Actor
+Kate Hudson,Q169946,773/000025698,19-Apr-1979,"Los Angeles, CA",Female,White,Straight,Actor
+Julie Walters,Q228747,991/000102685,22-Feb-1950,"Birmingham, West Midlands, England",Female,White,Straight,Actor
+Kevin Spacey,Q25144,591/000023522,26-Jul-1959,"South Orange, NJ",Male,White,Matter of Dispute,Actor
+Richard Farnsworth,Q316003,865/000072649,1-Sep-1920,"Los Angeles, CADied: 6-Oct-2000",Male,White,Straight,Actor
+Sam Mendes,Q223233,059/000025981,1-Aug-1965,"Reading, Berkshire, England",Male,White,Straight,Film Director
+Spike Jonze,Q259913,757/000032661,22-Oct-1969,"Rockville, MD",Male,White,Straight,Film Director
+Lasse Hallström,Q316051,232/000027151,2-Jun-1946,"Stockholm, Sweden",Male,White,Straight,Film Director
+Michael Mann,Q270097,683/000044551,5-Feb-1943,"Chicago, IL",Male,White,Straight,"Film Director, Screenwriter"
+M. Night Shyamalan,Q51489,232/000026154,6-Aug-1970,"Pondicherry, Tamil-Nadu, India",Male,Asian/Indian,Straight,"Film Director, Screenwriter"
+Tom Cruise,Q37079,791/000022725,3-Jul-1962,"Syracuse, NY",Male,White,Matter of Dispute,Actor
+Michael Clarke Duncan,Q483148,130/000108803,10-Dec-1957,"Chicago, ILDied: 3-Sep-2012",Male,Black,Straight,Actor
+Haley Joel Osment,Q489856,886/000025811,10-Apr-1988,"Los Angeles, CA",Male,White,NA,Actor
+Toni Collette,Q229291,974/000044842,1-Nov-1972,"Sydney, New South Wales, Australia",Female,White,Straight,Actor
+Chloë Sevigny,Q235870,685/000025610,18-Nov-1974,"Darien, CT",Female,White,Straight,Actor
+Roberto Benigni,Q23301,259/000025184,27-Oct-1952,"Misericordia, Arezzo, Tuscany, Italy",Male,White,Straight,Actor
+Gwyneth Paltrow,Q34460,592/000023523,27-Sep-1972,"Los Angeles, CA",Female,White,Straight,Actor
+Fernanda Montenegro,Q335455,427/000163935,16-Oct-1929,"Rio de Janeiro, Brazil",Female,White,Straight,Actor
+Emily Watson,Q229535,827/000043698,14-Jan-1967,"Islington, London, England",Female,White,Straight,Actor
+John Madden,Q1345694,798/000023729,10-Apr-1934,"Austin, MN",Male,White,Straight,"Football, Sports Journalist"
+James Coburn,Q4227,764/000022698,31-Aug-1928,"Laurel, NEDied: 18-Nov-2002",Male,White,Straight,Actor
+Billy Bob Thornton,Q202735,295/000025220,4-Aug-1955,"Hot Springs, AR",Male,White,Straight,"Actor, Screenwriter, Film Director"
+Brenda Blethyn,Q229952,084/000101778,20-Feb-1946,"Ramsgate, Kent, England",Female,White,Straight,Actor
+Rachel Griffiths,Q181140,676/000030586,20-Feb-1968,"Melbourne, Australia",Female,White,Straight,Actor
+Lynn Redgrave,Q156552,454/000024382,8-Mar-1943,"London, England",Female,White,Straight,Actor
+Peter Fonda,Q210148,538/000023469,23-Feb-1940,New York City,Male,White,Straight,Actor
+Dustin Hoffman,Q42930,882/000022816,8-Aug-1937,"Los Angeles, CA",Male,White,Straight,Actor
+Peter Cattaneo,Q1241761,NA,NA,NA,NA,NA,NA,NA
+Curtis Hanson,Q263486,239/000032143,24-Mar-1945,"Reno, NVDied: 20-Sep-2016",Male,White,Straight,Film Director
+Atom Egoyan,Q212167,536/000024464,19-Jul-1960,"Cairo, Egypt",Male,Other,Straight,Film Director
+Robin Williams,Q83338,606/000022540,21-Jul-1951,"Chicago, ILDied: 11-Aug-2014",Male,White,Straight,"Comic, Actor"
+Robert Forster,Q367155,895/000092619,13-Jul-1941,"Rochester, NY",Male,White,Straight,Actor
+Anthony Hopkins,Q65932,005/000023933,31-Dec-1937,"Port Talbot, Wales",Male,White,Straight,Actor
+Greg Kinnear,Q269869,137/000023068,17-Jun-1963,"Logansport, IN",Male,White,Straight,"Actor, Talk Show Host"
+Burt Reynolds,Q202148,888/000023819,11-Feb-1936,"Lansing, MI",Male,White,Straight,Actor
+Kim Basinger,Q131380,310/000025235,8-Dec-1953,"Athens, GA",Female,White,Straight,"Actor, Model"
+Joan Cusack,Q272946,893/000025818,11-Oct-1962,"Evanston, IL",Female,White,Straight,Actor
+Minnie Driver,Q229056,775/000025700,31-Jan-1970,"London, England",Female,White,Straight,Actor
+Gloria Stuart,Q189407,966/000027885,4-Jul-1910,"Santa Monica, CADied: 27-Sep-2010",Female,White,Straight,"Actor, Artist"
+Ralph Fiennes,Q28493,668/000023599,22-Dec-1962,"Ipswich, Suffolk, England",Male,White,Straight,Actor
+Kristin Scott Thomas,Q208590,281/000092005,24-May-1960,"Redruth, Cornwall, England",Female,White,Straight,Actor
+Anthony Minghella,Q188726,513/000032417,6-Jan-1954,"Ryde, Isle of Wight, England",Male,White,Straight,"Film Director, Playwright"
+Joel Coen,Q56095,NA,NA,NA,NA,NA,NA,NA
+Miloš Forman,Q51525,622/000023553,18-Feb-1932,"Cáslav, Czechoslovakia",Male,White,Straight,Film Director
+Scott Hicks,Q951522,NA,NA,NA,NA,NA,NA,NA
+Cuba Gooding Jr.,Q136209,587/000023518,2-Jan-1968,"Bronx, NY",Male,Black,Straight,Actor
+William H. Macy,Q224159,547/000023478,13-Mar-1950,"Miami, FL",Male,White,Straight,Actor
+Armin Mueller-Stahl,Q164117,189/000353127,17-Dec-1930,"Tilsit, East Prussia, Germany",Male,White,Straight,Actor
+James Woods,Q193105,789/000024717,18-Apr-1947,"Vernal, UT",Male,White,Straight,Actor
+Lauren Bacall,Q104000,983/000022917,16-Sep-1924,New York City,Female,White,Straight,Actor
+Barbara Hershey,Q229042,886/000024814,5-Feb-1948,"Hollywood, CA",Female,White,Straight,Actor
+Marianne Jean-Baptiste,Q430872,087/000101781,26-Apr-1967,"London, England",Female,Black,Straight,Actor
+Richard Dreyfuss,Q181799,814/000022748,29-Oct-1947,"Brooklyn, NY",Male,White,Straight,Actor
+Massimo Troisi,Q53035,738/000161255,19-Feb-1953,"Naples, Italy",Male,White,NA,Actor
+Susan Sarandon,Q133050,762/000024690,4-Oct-1946,"Queens, NY",Female,White,Straight,Actor
+Elisabeth Shue,Q207852,921/000025846,6-Oct-1963,"Wilmington, DE",Female,White,Straight,Actor
+Sharon Stone,Q62975,586/000022520,10-Mar-1958,"Meadville, PA",Female,White,Straight,Actor
+Emma Thompson,Q168724,627/000025552,15-Apr-1959,"London, England",Female,White,Straight,Actor
+Chris Noonan,Q185846,NA,NA,NA,NA,NA,NA,NA
+Mike Figgis,Q710131,758/000043629,28-Feb-1948,"Carlisle, Cumbria, England",Male,White,Straight,Film Director
+Michael Radford,Q470601,NA,NA,NA,NA,NA,NA,NA
+James Cromwell,Q299483,144/000024072,27-Jan-1940,"Los Angeles, CA",Male,White,Straight,Actor
+Tim Roth,Q203804,597/000023528,14-May-1961,"London, England",Male,White,Straight,Actor
+Mira Sorvino,Q212026,890/000025815,28-Sep-1967,"Tenafly, NJ",Female,White,Straight,Actor
+Kathleen Quinlan,Q236696,904/000043775,19-Nov-1954,"Pasadena, CA",Female,White,Straight,Actor
+Mare Winningham,Q235189,159/000088892,16-May-1959,"Phoenix, AZ",Female,White,Straight,"Actor, Musician"
+Nigel Hawthorne,Q269589,727/000109400,5-Apr-1929,"Coventry, England",Male,White,Gay,Actor
+John Travolta,Q80938,927/000022861,18-Feb-1954,"Englewood, NJ",Male,White,Matter of Dispute,Actor
+Jessica Lange,Q173585,004/000022935,20-Apr-1949,"Cloquet, MN",Female,White,Straight,Actor
+Jodie Foster,Q41351,756/000023687,19-Nov-1962,"Los Angeles, CA",Female,White,Lesbian,Actor
+Miranda Richardson,Q229241,569/000025494,3-Mar-1958,"Southport, Lancashire, England",Female,White,NA,Actor
+Winona Ryder,Q101797,634/000022568,29-Oct-1971,"Winona, MN",Female,White,Straight,Actor
+Robert Zemeckis,Q187364,224/000025149,14-May-1952,"Chicago, IL",Male,White,Straight,Film Director
+Robert Redford,Q59215,795/000022729,18-Aug-1936,"Santa Monica, CA",Male,White,Straight,Actor
+Krzysztof Kieślowski,Q55165,450/000118096,27-Jun-1941,"Warsaw, Poland",Male,White,Straight,Film Director
+Martin Landau,Q294641,431/000023362,20-Jun-1931,"Brooklyn, NYDied: 15-Jul-2017",Male,White,Straight,Actor
+Samuel L. Jackson,Q172678,563/000023494,21-Dec-1948,"Washington, DC",Male,Black,Straight,Actor
+Chazz Palminteri,Q338812,681/000086423,15-May-1952,New York City,Male,White,Straight,Actor
+Paul Scofield,Q223988,950/000033851,21-Jan-1922,"Hurstpierpoint, West Sussex, England",Male,White,Straight,Actor
+Gary Sinise,Q180272,604/000023535,17-Mar-1955,"Blue Island, IL",Male,White,Straight,Actor
+Dianne Wiest,Q217573,894/000024822,28-Mar-1948,"Kansas City, MO",Female,White,Straight,Actor
+Rosemary Harris,Q234195,187/000026109,19-Sep-1927,"Ashby, Suffolk, England",Female,White,Straight,Actor
+Uma Thurman,Q125017,598/000023529,29-Apr-1970,"Boston, MA",Female,White,Straight,"Actor, Model"
+Jennifer Tilly,Q495549,708/000025633,16-Sep-1958,"Harbor City, CA",Female,Multiracial,Straight,Actor
+Laurence Fishburne,Q193048,836/000025761,30-Jul-1961,"Augusta, GA",Male,Black,Straight,Actor
+Liam Neeson,Q58444,667/000023598,7-Jun-1952,"Ballymena, Northern Ireland",Male,White,Straight,Actor
+Angela Bassett,Q232120,608/000025533,16-Aug-1958,New York City,Female,Black,Straight,Actor
+Stockard Channing,Q1117390,760/000022694,13-Feb-1944,New York City,Female,White,Straight,Actor
+Debra Winger,Q229009,056/000022987,16-May-1955,"Cleveland, OH",Female,White,Straight,Actor
+Jim Sheridan,Q55429,706/000206088,6-Feb-1949,"Dublin, Ireland",Male,White,NA,"Film Director, Playwright"
+Jane Campion,Q230448,377/000025302,30-Apr-1954,"Wellington, New Zealand",Female,White,Straight,Film Director
+James Ivory,Q51577,274/000023205,7-Jun-1928,"Berkeley, CA",Male,White,Gay,Film/TV Producer
+John Malkovich,Q172261,312/000025237,9-Dec-1953,"Christopher, IL",Male,White,Straight,Actor
+Pete Postlethwaite,Q217137,242/000130849,16-Feb-1946,"Warrington, Cheshire, England",Male,White,Straight,Actor
+Anna Paquin,Q199884,763/000025688,24-Jul-1982,"Winnipeg, Manitoba, Canada",Female,White,Bisexual,Actor
+Rosie Perez,Q234076,979/000025904,6-Sep-1964,"Brooklyn, NY",Female,Hispanic,Straight,Actor
+Al Pacino,Q41163,880/000022814,25-Apr-1940,"East Harlem, New York City",Male,White,Straight,Actor
+Stephen Rea,Q313042,976/000088712,31-Oct-1946,"Belfast, Northern Ireland",Male,White,Straight,Actor
+Catherine Deneuve,Q106418,501/000024429,22-Oct-1943,"Paris, France",Female,White,Straight,Actor
+Mary McDonnell,Q117500,275/000025200,28-Apr-1952,"Wilkes-Barre, PA",Female,White,Straight,Actor
+Michelle Pfeiffer,Q159778,679/000022613,29-Apr-1958,"Santa Ana, CA",Female,White,Straight,Actor
+Neil Jordan,Q55428,397/000078163,25-Feb-1950,"Sligo, Ireland",Male,White,Straight,Film Director
+Martin Brest,Q363117,579/000032483,8-Aug-1951,"Bronx, NY",Male,White,NA,Film Director
+Gene Hackman,Q150943,878/000022812,30-Jan-1930,"San Bernardino, CA",Male,White,Straight,Actor
+Jaye Davidson,Q360550,826/000109499,21-Mar-1968,"Riverside, CA",Male,Multiracial,Gay,Actor
+David Paymer,Q373989,161/000130768,30-Aug-1954,"Oceanside, NY",Male,White,Straight,Actor
+Judy Davis,Q307882,410/000025335,23-Apr-1955,"Perth, Western Australia, Australia",Female,White,Straight,Actor
+Joan Plowright,Q230035,858/000109531,28-Oct-1929,"Brigg, North Lincolnshire, England",Female,White,Straight,Actor
+Vanessa Redgrave,Q347879,590/000023521,30-Jan-1937,"London, England",Female,White,Straight,Actor
+Warren Beatty,Q95030,719/000022653,30-Mar-1937,"Richmond, VA",Male,White,Straight,Actor
+Geena Davis,Q280098,883/000022817,21-Jan-1956,"Wareham, MA",Female,White,Straight,Actor
+Bette Midler,Q190631,773/000022707,1-Dec-1945,"Honolulu, HI",Female,White,Straight,"Singer, Actor"
+Jonathan Demme,Q48987,578/000024506,22-Feb-1944,"Baldwin, NYDied: 26-Apr-2017",Male,White,Straight,Film Director
+John Singleton,Q363005,114/000026036,6-Jan-1968,"Los Angeles, CA",Male,Black,Straight,Film Director
+Barry Levinson,Q269692,748/000023679,6-Apr-1942,"Baltimore, MD",Male,White,Straight,Film Director
+Oliver Stone,Q179497,545/000022479,15-Sep-1946,New York City,Male,White,Straight,Film Director
+Jack Palance,Q193653,579/000022513,18-Feb-1919,"Lattimer Mines, PADied: 10-Nov-2006",Male,White,Straight,Actor
+Harvey Keitel,Q191132,558/000023489,13-May-1939,"Brooklyn, NY",Male,White,Straight,Actor
+Michael Lerner,Q363380,NA,NA,NA,NA,NA,NA,NA
+Mercedes Ruehl,Q232933,890/000024818,28-Feb-1948,"Queens, NY",Female,Hispanic,Straight,Actor
+Diane Ladd,Q234080,510/000024438,29-Nov-1942,"Laurel, MS",Female,White,Straight,Actor
+Juliette Lewis,Q230523,868/000023799,21-Jun-1973,"Los Angeles, CA",Female,White,Straight,Actor
+Kate Nelligan,Q266467,701/000116353,16-Mar-1950,"London, Ontario, Canada",Female,White,Straight,Actor
+Jessica Tandy,Q182104,017/000023945,7-Jun-1909,"London, England",Female,White,Straight,Actor
+Jeremy Irons,Q171745,594/000023525,19-Sep-1948,"Cowes, Isle of Wight, England",Male,White,Straight,Actor
+Kevin Costner,Q11930,758/000022692,18-Jan-1955,"Lynwood, CA",Male,White,Straight,"Actor, Film Director, Film/TV Producer"
+Gérard Depardieu,Q106508,933/000024861,27-Dec-1948,"Chateauroux, Indre, France",Male,White,Straight,Actor
+Richard Harris,Q106775,691/000030601,1-Oct-1930,"Limerick, Ireland",Male,White,Straight,"Actor, Musician"
+Anjelica Huston,Q190998,128/000025053,8-Jul-1951,"Santa Monica, CA",Female,White,Straight,Actor
+Joanne Woodward,Q1111542,747/000043618,27-Feb-1930,"Thomasville, GA",Female,White,Straight,Actor
+Francis Ford Coppola,Q56094,866/000022800,7-Apr-1939,"Detroit, MI",Male,White,Straight,Film Director
+Barbet Schroeder,Q504627,354/000024282,26-Apr-1941,"Tehran, Iran",Male,White,Straight,Film Director
+Joe Pesci,Q20178,582/000022516,9-Feb-1943,"Newark, NJ",Male,White,Straight,Actor
+Bruce Davison,Q355163,706/000086448,28-Jun-1946,"Philadelphia, PA",Male,White,Straight,Actor
+Andy García,Q189415,534/000024462,12-Apr-1956,"Havana, Cuba",Male,Hispanic,Straight,Actor
+Graham Greene,Q128560,218/000044086,2-Oct-1904,"Berkhamstead, Hertfordshire, England",Male,White,Straight,"Novelist, Critic"
+Whoopi Goldberg,Q49001,242/000025167,13-Nov-1955,New York City,Female,Black,Straight,"Actor, Comic"
+Lorraine Bracco,Q229319,393/000025318,2-Oct-1954,"Brooklyn, NY",Female,White,Straight,Actor
+Isabelle Adjani,Q106383,431/000108107,27-Jun-1955,"Paris, France",Female,Multiracial,Straight,Actor
+Pauline Collins,Q242705,593/000137182,3-Sep-1940,"Exmouth, Devon, England",Female,White,Straight,Actor
+Danny Aiello,Q299314,689/000022623,20-Jun-1933,"Manhattan, NY",Male,White,Straight,Actor
+Dan Aykroyd,Q105221,244/000025169,1-Jul-1952,"Ottawa, Ontario, Canada",Male,White,Straight,Actor
+Marlon Brando,Q34012,721/000022655,3-Apr-1924,"Omaha, NEDied: 1-Jul-2004",Male,White,Bisexual,Actor
+Brenda Fricker,Q230214,815/000063626,17-Feb-1945,"Dublin, Ireland",Female,White,Straight,Actor
+Lena Olin,Q228862,381/000109054,22-Mar-1956,"Stockholm, Sweden",Female,White,Straight,Actor
+Edward James Olmos,Q211415,782/000024710,24-Feb-1947,"East Los Angeles, CA",Male,Hispanic,Straight,Actor
+Melanie Griffith,Q176455,525/000025450,9-Aug-1957,New York City,Female,White,Straight,Actor
+Sigourney Weaver,Q102124,792/000022726,8-Oct-1949,"Manhattan, NY",Female,White,Straight,Actor
+Charles Crichton,Q727753,516/000173994,6-Aug-1910,"Wallasey, Cheshire, England",Male,White,Straight,Film Director
+Alan Parker,Q271284,530/000024458,14-Feb-1944,"London, England",Male,White,Straight,Film Director
+Mike Nichols,Q51537,455/000023386,6-Nov-1931,"Berlin, Germany",Male,White,Straight,Film Director
+Kevin Kline,Q105817,819/000024747,24-Oct-1947,"St. Louis, MO",Male,White,Straight,Actor
+Alec Guinness,Q103894,751/000023682,2-Apr-1914,"London, England",Male,White,Bisexual,Actor
+River Phoenix,Q106514,948/000025873,23-Aug-1970,"Madras, ORDied: 31-Oct-1993",Male,White,Straight,Actor
+Dean Stockwell,Q345212,891/000023822,5-Mar-1936,"North Hollywood, CA",Male,White,Straight,Actor
+Michael Douglas,Q119798,614/000024542,25-Sep-1944,"New Brunswick, NJ",Male,White,Straight,Actor
+Marcello Mastroianni,Q55469,231/000085973,28-Sep-1924,"Fontana Liri, Italy",Male,White,Straight,Actor
+Cher,Q12003,688/000022622,20-May-1946,"El Centro, CA",Female,White,Bisexual,"Singer, Actor"
+Sally Kirkland,Q235221,771/000023702,31-Oct-1944,New York City,Female,White,NA,Actor
+Bernardo Bertolucci,Q53009,268/000024196,16-Mar-1941,"Parma, Emilia-Romagna, Italy",Male,White,Straight,Film Director
+John Boorman,Q55277,652/000023583,18-Jan-1933,"Shepperton, Middlesex, England",Male,White,Straight,Film Director
+Norman Jewison,Q309214,186/000023117,21-Jul-1926,"Toronto, Ontario, Canada",Male,White,Straight,"Film Director, Film/TV Producer"
+Adrian Lyne,Q373474,264/000024192,4-Mar-1941,"Peterborough, Cambridgeshire, England",Male,NA,Straight,Film Director
+Sean Connery,Q4573,881/000022815,25-Aug-1930,"Edinburgh, Scotland",Male,White,Straight,Actor
+Albert Brooks,Q356303,753/000022687,22-Jul-1947,"Beverly Hills, CA",Male,White,Straight,Actor
+Vincent Gardenia,Q555590,980/000032884,7-Jan-1922,"Naples, Italy",Male,White,Straight,Actor
+Olympia Dukakis,Q230188,430/000023361,20-Jun-1931,"Lowell, MA",Female,White,Straight,Actor
+Norma Aleandro,Q240136,441/000349391,2-May-1936,"Buenos Aires, Argentina",Female,Hispanic,Straight,Actor
+Anne Archer,Q230199,196/000024124,24-Aug-1947,"Los Angeles, CA",Female,White,Straight,Actor
+Anne Ramsey,Q234083,712/000131319,1-Sep-1929,"Omaha, NEDied: 11-Aug-1988",Female,White,Straight,Actor
+Ann Sothern,Q235289,494/000070284,22-Jan-1909,"Valley City, NDDied: 15-Mar-2001",Female,White,Straight,Actor
+Dexter Gordon,Q118116,002/000119642,27-Feb-1923,"Los Angeles, CADied: 25-Apr-1990",Male,Black,NA,Jazz Musician
+Bob Hoskins,Q211283,429/000024357,26-Oct-1942,"Bury St. Edmund's, Suffolk, England",Male,White,Straight,Actor
+Marlee Matlin,Q213287,870/000023801,24-Aug-1965,"Morton Grove, IL",Female,White,Straight,Actor
+Jane Fonda,Q41142,637/000022571,21-Dec-1937,New York City,Female,White,Straight,"Actor, Activist"
+Kathleen Turner,Q222008,553/000023484,19-Jun-1954,"Springfield, MO",Female,White,Straight,Actor
+Roland Joffé,Q309715,695/000024623,17-Nov-1945,"London, England",Male,White,Straight,Film Director
+Tom Berenger,Q299317,072/000024000,31-May-1949,"Chicago, IL",Male,White,Straight,Actor
+Denholm Elliott,Q313047,693/000103384,31-May-1922,"London, England",Male,White,Bisexual,Actor
+Dennis Hopper,Q102711,600/000023531,17-May-1936,"Dodge City, KSDied: 29-May-2010",Male,White,Straight,Actor
+Tess Harper,Q443044,338/000130945,15-Aug-1950,"Mammoth Spring, AR",Female,White,Straight,Actor
+Piper Laurie,Q232282,621/000023552,22-Jan-1932,"Detroit, MI",Female,White,Straight,Actor
+Mary Elizabeth Mastrantonio,Q235205,617/000025542,17-Nov-1958,"Lombard, IL",Female,White,Straight,Actor
+Harrison Ford,Q81328,812/000022746,13-Jul-1942,"Chicago, IL",Male,White,Straight,Actor
+James Garner,Q108510,266/000023197,7-Apr-1928,"Norman, OKDied: 19-Jul-2014",Male,White,Straight,Actor
+Geraldine Page,Q228650,780/000043651,22-Nov-1924,"Kirksville, MODied: 13-Jun-1987",Female,White,Straight,Actor
+Anne Bancroft,Q183532,439/000023370,17-Sep-1931,"Bronx, NYDied: 6-Jun-2005",Female,White,Straight,Actor
+Sydney Pollack,Q51522,772/000023703,1-Jul-1934,"Lafayette, INDied: 26-May-2008",Male,White,Straight,"Film Director, Film/TV Producer"
+Héctor Babenco,Q538608,282/000173760,7-Feb-1946,"Buenos Aires, Argentina",Male,White,Straight,Film Director
+John Huston,Q51575,704/000024632,5-Aug-1906,"Nevada, MODied: 28-Aug-1987",Male,White,Straight,Film Director
+Akira Kurosawa,Q8006,326/000044194,23-Mar-1910,"Tokyo, Japan",Male,Asian,Straight,"Film Director, Author"
+Don Ameche,Q310413,736/000024664,31-May-1904,"Kenosha, WIDied: 6-Dec-1993",Male,White,Straight,Actor
+Klaus Maria Brandauer,Q78533,588/000134186,22-Jun-1944,"Alt Aussee, Austria",Male,White,Straight,Actor
+William Hickey,Q8012301,NA,NA,NA,NA,NA,NA,NA
+Robert Loggia,Q361238,318/000023249,3-Jan-1930,New York City,Male,White,Straight,Actor
+Eric Roberts,Q207969,452/000025377,18-Apr-1956,"Biloxi, MS",Male,White,Straight,Actor
+Margaret Avery,Q271846,110/000130717,20-Jan-1944,"Mangum, OK",Female,Black,Straight,Actor
+Amy Madigan,Q235219,062/000100759,11-Sep-1950,"Chicago, IL",Female,White,Straight,Actor
+Meg Tilly,Q236705,707/000025632,14-Feb-1960,"Texada Island, British Columbia, Canada",Female,Multiracial,Straight,Actor
+Oprah Winfrey,Q55800,466/000022400,29-Jan-1954,"Kosciusko, MS",Female,Black,Straight,"Talk Show Host, Actor"
+F. Murray Abraham,Q181936,123/000024051,24-Oct-1939,"Pittsburgh, PA",Male,Middle Eastern,Straight,Actor
+Tom Hulce,Q315039,308/000025233,6-Dec-1953,"Whitewater, WI",Male,White,Matter of Dispute,Actor
+Sam Waterston,Q284876,772/000022706,15-Nov-1940,"Cambridge, MA",Male,White,Straight,Actor
+as Antonio Salieri,NULL,NA,NA,NA,NA,NA,NA,NA
+David Lean,Q55260,462/000032366,25-Mar-1908,"Croydon, Surrey, England",Male,White,Straight,Film Director
+Robert Benton,Q59085,267/000064075,29-Sep-1932,"Waxahachie, TX",Male,White,Straight,"Film Director, Screenwriter"
+Adolph Caesar,Q365292,113/000350060,5-Dec-1933,"Harlem, NYDied: 6-Mar-1986",Male,Black,Straight,Actor
+Pat Morita,Q298799,551/000023482,28-Jun-1932,"Isleton, CADied: 24-Nov-2005",Male,Asian,Straight,Actor
+Ralph Richardson (posthumous nomination),NULL,NA,NA,NA,NA,NA,NA,NA
+as Edna Spalding,NULL,NA,NA,NA,NA,NA,NA,NA
+Lindsay Crouse,Q238912,900/000024828,12-May-1948,New York City,Female,White,Straight,Actor
+Christine Lahti,Q232941,645/000043516,4-Apr-1950,"Birmingham, MI",Female,White,Straight,Actor
+Tom Conti,Q241962,371/000024299,22-Nov-1941,"Paisley, Scotland",Male,White,Straight,Actor
+Tom Courtenay,Q329798,978/000101675,25-Feb-1937,"Hull, Humberside, England",Male,White,Straight,Actor
+Shirley MacLaine,Q95026,799/000023730,24-Apr-1934,"Richmond, VA",Female,White,Straight,Actor
+Jane Alexander,Q242717,NA,NA,NA,NA,NA,NA,NA
+James L. Brooks,Q95125,209/000024137,9-May-1940,"North Bergen, NJ",Male,White,Straight,Film/TV Producer
+Peter Yates,Q314301,333/000078099,24-Jul-1929,"Aldershot, Hampshire, England",Male,White,Straight,Film Director
+Ingmar Bergman,Q7546,009/000025931,14-Jul-1918,"Uppsala, Sweden",Male,White,Straight,Film Director
+Bruce Beresford,Q449220,401/000041278,16-Aug-1940,"Sydney, Australia",Male,White,Straight,Film Director
+Charles Durning,Q329784,939/000022873,28-Feb-1923,"Highland Falls, NYDied: 24-Dec-2012",Male,White,Straight,Actor
+John Lithgow,Q311271,586/000023517,19-Oct-1945,"Rochester, NY",Male,White,Straight,Actor
+Sam Shepard,Q294583,502/000024430,5-Nov-1943,"Fort Sheridan, ILDied: 27-Jul-2017",Male,White,Straight,"Playwright, Actor"
+Rip Torn,Q313522,549/000022483,6-Feb-1931,"Temple, TX",Male,White,Straight,Actor
+Linda Hunt,Q232874,671/000024599,2-Apr-1945,"Morristown, NJ",Female,White,NA,Actor
+Amy Irving,Q235020,290/000025215,10-Sep-1953,"Palo Alto, CA",Female,White,Straight,Actor
+Alfre Woodard,Q526620,302/000025227,8-Nov-1953,"Tulsa, OK",Female,Black,Straight,Actor
+Jack Lemmon,Q94123,714/000026636,8-Feb-1925,"Newton, MADied: 27-Jun-2001",Male,White,Straight,Actor
+Julie Andrews,Q161819,874/000023805,1-Oct-1935,"Walton-on-Thames, Surrey, England",Female,White,Straight,"Singer, Actor"
+Richard Attenborough,Q51506,750/000023681,29-Aug-1923,"Cambridge, England",Male,White,Straight,"Film Director, Actor"
+Wolfgang Petersen,Q65321,787/000047646,14-Mar-1941,"Emden, Lower Saxony, Germany",Male,White,Straight,Film Director
+Sidney Lumet,Q51559,978/000022912,25-Jun-1924,"Philadelphia, PADied: 9-Apr-2011",Male,White,Straight,Film Director
+Louis Gossett Jr.,Q329719,906/000023837,27-May-1936,"Brooklyn, NY",Male,Black,Straight,Actor
+James Mason,Q209186,873/000023804,15-May-1909,"Yorkshire, England",Male,White,Straight,Actor
+Robert Preston,Q1563879,NA,NA,NA,NA,NA,NA,NA
+Teri Garr,Q233873,930/000024858,11-Dec-1947,"Lakewood, OH",Female,White,Straight,Actor
+Kim Stanley,Q259474,182/000205564,11-Feb-1925,"Tularosa, NMDied: 20-Aug-2001",Female,White,Straight,Actor
+Lesley Ann Warren,Q237214,755/000024683,16-Aug-1946,New York City,Female,White,Straight,Actor
+Henry Fonda,Q19155,496/000026418,16-May-1905,"Grand Island, NEDied: 12-Aug-1982",Male,White,Straight,Actor
+Burt Lancaster,Q160528,938/000031845,2-Nov-1913,New York City,Male,White,Straight,Actor
+Dudley Moore,Q310343,657/000022591,19-Apr-1935,"London, England",Male,White,Straight,"Comic, Musician"
+Katharine Hepburn,Q56016,775/000023706,12-May-1907,"Hartford, CTDied: 29-Jun-2003",Female,White,Bisexual,Actor
+Marsha Mason,Q235211,232/000100929,3-Apr-1942,"St. Louis, MO",Female,White,Straight,Actor
+Louis Malle,Q55392,298/000044166,30-Oct-1932,"Thumeries, France",Male,White,Straight,Film Director
+Hugh Hudson,Q538578,NA,NA,NA,NA,NA,NA,NA
+Mark Rydell,Q953627,406/000078172,23-Mar-1934,New York City,Male,White,Straight,Film Director
+John Gielgud,Q204685,589/000033490,14-Apr-1904,"London, England",Male,White,Gay,Actor
+James Coco,Q769205,297/000044165,21-Mar-1928,New York City,Male,White,Gay,Actor
+Ian Holm,Q223091,438/000023369,12-Sep-1931,"Goodmayes, England",Male,White,Straight,Actor
+Howard E. Rollins Jr,Q967653,838/000107517,17-Oct-1950,"Baltimore, MDDied: 8-Dec-1996",Male,Black,NA,Actor
+Maureen Stapleton,Q230841,376/000032280,21-Jun-1925,"Troy, NYDied: 13-Mar-2006",Female,White,Straight,Actor
+Melinda Dillon,Q271883,733/000129346,13-Oct-1939,"Hope, AR",Female,White,Straight,Actor
+Joan Hackett,Q273541,294/000044162,1-Mar-1934,"Harlem, NYDied: 8-Oct-1983",Female,White,Straight,Actor
+Elizabeth McGovern,Q233868,834/000025759,18-Jul-1961,"Evanston, IL",Female,White,Straight,Actor
+John Hurt,Q200405,007/000023935,22-Jan-1940,"Chesterfield, Derbyshire, England",Male,White,Straight,Actor
+Goldie Hawn,Q188459,996/000022930,21-Nov-1945,"Silver Spring, MD",Female,White,Straight,Actor
+Mary Tyler Moore,Q41342,884/000023815,29-Dec-1936,"Brooklyn, NYDied: 25-Jan-2017",Female,White,Straight,Actor
+Gena Rowlands,Q229258,907/000023838,19-Jun-1930,"Cambria, WI",Female,White,Straight,Actor
+Richard Rush,Q942844,601/000114259,29-Aug-1780,"Philadelphia, PADied: 30-Jul-1859",Male,White,NA,"Diplomat, Government"
+Timothy Hutton,Q310324,378/000024306,16-Aug-1960,"Malibu, CA",Male,White,Straight,Actor
+Judd Hirsch,Q365023,589/000023520,15-Mar-1935,"Bronx, NY",Male,White,Straight,Actor
+Michael O'Keefe,Q575761,487/000112151,24-Apr-1955,"Mount Vernon, NY",Male,White,Straight,Actor
+Jason Robards,Q296630,224/000032128,26-Jul-1922,"Chicago, ILDied: 26-Dec-2000",Male,White,Straight,Actor
+Mary Steenburgen,Q108935,271/000025196,8-Feb-1953,"Newport, AR",Female,White,Straight,Actor
+Eileen Brennan,Q238919,027/000022958,3-Sep-1932,"Los Angeles, CADied: 28-Jul-2013",Female,White,Straight,Actor
+Eva Le Gallienne,Q266402,193/000205575,11-Jan-1899,"London, England",Female,White,Lesbian,Actor
+Cathy Moriarty,Q242732,056/000110723,29-Nov-1960,"Bronx, NY",Female,White,Straight,Actor
+Diana Scarwid,Q242805,098/000131702,27-Aug-1955,"Savannah, GA",Female,White,Straight,Actor
+Roy Scheider,Q216569,646/000023577,10-Nov-1932,"Orange, NJDied: 10-Feb-2008",Male,White,Straight,Actor
+Peter Sellers,Q177984,011/000023939,8-Sep-1925,"Southsea, Hampshire, England",Male,White,Straight,Actor
+Jill Clayburgh,Q230665,560/000023491,30-Apr-1944,New York City,Female,White,Straight,Actor
+Bob Fosse,Q313256,159/000032063,23-Jun-1927,"Chicago, ILDied: 23-Sep-1987",Male,White,Straight,"Choreographer, Film Director"
+Édouard Molinaro,Q274411,468/000136060,31-May-1928,"Gironde, Bordeaux, France",Male,White,NA,Film Director
+Melvyn Douglas,Q312084,100/000063908,5-Apr-1901,"Macon, GADied: 4-Aug-1981",Male,White,Straight,Actor
+Frederic Forrest,Q719266,273/000132874,23-Dec-1936,"Waxahachie, TX",Male,White,Straight,Actor
+Justin Henry,Q464353,107/000352048,25-May-1971,"Rye, NY",Male,White,NA,Actor
+Mickey Rooney,Q104081,861/000022795,23-Sep-1920,"Brooklyn, NYDied: 6-Apr-2014",Male,White,Straight,Actor
+Barbara Barrie,Q266368,041/000131645,23-May-1931,"Chicago, IL",Female,White,Straight,Actor
+Candice Bergen,Q106942,723/000022657,9-May-1946,"Beverly Hills, CA",Female,White,Straight,"Actor, Photographer, Model"
+Mariel Hemingway,Q234101,852/000025777,22-Nov-1961,"Mill Valley, CA",Female,White,Straight,Actor
+Gary Busey,Q312081,848/000022782,29-Jun-1944,"Goose Creek, TX",Male,White,Straight,Actor
+Laurence Olivier,Q55245,607/000022541,22-May-1907,"Dorking, Surrey, England",Male,White,Bisexual,Actor
+Ingrid Bergman,Q43247,836/000024764,29-Aug-1915,"Stockholm, Sweden",Female,White,Straight,Actor
+Michael Cimino,Q59129,810/000043681,3-Feb-1939,New York City,Male,White,Straight,Film Director
+Hal Ashby,Q358370,862/000090592,2-Sep-1929,"Ogden, UTDied: 27-Dec-1988",Male,White,Straight,Film Director
+Warren Beatty and Buck Henry,NULL,NA,NA,NA,NA,NA,NA,NA
+Jack Warden,Q373968,860/000022794,18-Sep-1920,"Newark, NJDied: 19-Jul-2006",Male,White,Straight,"Actor, Boxing"
+Dyan Cannon,Q236688,964/000023895,4-Jan-1937,"Tacoma, WA",Female,White,Straight,Actor
+Penelope Milford,Q443052,NA,NA,NA,NA,NA,NA,NA
+Richard Burton,Q151973,260/000032164,10-Nov-1925,"Pontrhydyfen, Wales",Male,White,Bisexual,Actor
+Fred Zinnemann,Q55420,538/000032442,29-Apr-1907,"Vienna, Austria",Male,White,Straight,Film Director
+George Lucas,Q38222,539/000022473,14-May-1944,"Modesto, CA",Male,White,Straight,Film Director
+Herbert Ross,Q711415,415/000032319,13-May-1927,"Brooklyn, NYDied: 9-Oct-2001",Male,White,Straight,Film Director
+Mikhail Baryshnikov,Q295420,885/000024813,27-Jan-1948,"Riga, Latvia",Male,White,Straight,Dancer
+Peter Firth,Q376981,066/000130673,27-Oct-1953,"Bradford, Yorkshire, England",Male,White,Straight,Actor
+Maximilian Schell,Q153018,351/000023282,8-Dec-1930,"Vienna, Austria",Male,White,Straight,Actor
+Leslie Browne,Q451916,NA,NA,NA,NA,NA,NA,NA
+Quinn Cummings,Q456220,289/000160806,13-Aug-1967,"Los Angeles, CA",Female,White,NA,Actor
+Tuesday Weld,Q239818,680/000025605,27-Aug-1943,New York City,Female,White,Straight,Actor
+Peter Finch,Q294454,745/000063556,28-Sep-1916,"South Kensington, London, England",Male,White,Straight,Actor
+Giancarlo Giannini,Q315258,421/000131028,1-Aug-1942,"La Spezia, Italy",Male,White,Straight,Actor
+William Holden,Q95002,210/000022144,17-Apr-1918,"O'Fallon, ILDied: 16-Nov-1981",Male,White,Straight,Actor
+Faye Dunaway,Q168721,884/000022818,14-Jan-1941,"Bascom, FL",Female,White,Straight,Actor
+Marie-Christine Barrault,Q239845,017/000134612,21-Mar-1944,"Paris, France",Female,White,Straight,Actor
+Talia Shire,Q108622,640/000043511,25-Apr-1946,"Lake Success, Long Island, NY",Female,White,Straight,Actor
+Liv Ullmann,Q191064,240/000085982,16-Dec-1938,"Tokyo, Japan",Female,White,Straight,Actor
+John G. Avildsen,Q260125,679/000032583,21-Dec-1935,"Oak Park, ILDied: 16-Jun-2017",Male,White,Straight,Film Director
+Alan J. Pakula,Q51519,540/000032444,7-Apr-1928,"Bronx, NYDied: 19-Nov-1998",Male,White,Straight,Film Director
+Lina Wertmüller,Q53039,714/000116366,14-Aug-1928,"Rome, Italy",Female,White,Straight,Film Director
+Ned Beatty,Q4212,760/000023691,6-Jul-1937,"Louisville, KY",Male,White,Straight,Actor
+Burgess Meredith,Q343633,143/000043014,16-Nov-1908,"Cleveland, OHDied: 9-Sep-1997",Male,White,Straight,Actor
+Burt Young,Q329700,768/000050618,30-Apr-1940,"Queens, NY",Male,White,Straight,Actor
+Beatrice Straight,Q232532,817/000063628,2-Aug-1914,"Old Westbury, NYDied: 7-Apr-2001",Female,White,Straight,Actor
+Lee Grant,Q230184,409/000032313,31-Oct-1927,New York City,Female,White,Straight,Actor
+Walter Matthau,Q202172,768/000023699,1-Oct-1920,New York City,Male,White,Straight,Actor
+James Whitmore,Q313040,876/000022810,1-Oct-1921,"White Plains, NYDied: 6-Feb-2009",Male,White,Straight,Actor
+Louise Fletcher,Q182372,798/000063609,22-Jul-1934,"Birmingham, AL",Female,White,Straight,Actor
+Ann-Margret,Q232059,777/000043648,28-Apr-1941,"Valsjobyn, Sweden",Female,White,Straight,"Actor, Musician"
+Glenda Jackson,Q182408,799/000063610,9-May-1936,"Birkenhead, Cheshire, England",Female,White,Straight,Actor
+Carol Kane,Q235302,241/000025166,18-Jun-1952,"Cleveland, OH",Female,White,NA,Actor
+Federico Fellini,Q7371,911/000043782,20-Jan-1920,"Rimini, Italy",Male,White,Straight,Film Director
+Stanley Kubrick,Q2001,475/000022409,26-Jul-1928,"Bronx, NYDied: 7-Mar-1999",Male,White,Straight,Film Director
+George Burns,Q344793,895/000022829,20-Jan-1896,New York City,Male,White,Straight,Comic
+Brad Dourif,Q329734,591/000056423,18-Mar-1950,"Huntington, WV",Male,White,Straight,Actor
+Chris Sarandon,Q363684,058/000078821,24-Jul-1942,"Beckley, WV",Male,White,Straight,Actor
+Ronee Blakley,Q271256,380/000173858,24-Aug-1945,"Caldwell, ID",Female,White,Straight,"Actor, Singer"
+Sylvia Miles,Q259434,294/000130901,9-Sep-1923,New York City,Female,White,Straight,Actor
+Lily Tomlin,Q229271,661/000022595,1-Sep-1939,"Detroit, MI",Female,White,Lesbian,"Actor, Comic"
+Brenda Vaccaro,Q240658,126/000024054,18-Nov-1939,"Brooklyn, NY",Female,White,Straight,Actor
+Art Carney,Q182431,182/000025107,4-Nov-1918,"Mount Vernon, NYDied: 9-Nov-2003",Male,White,Straight,Actor
+Diahann Carroll,Q240233,857/000023788,17-Jul-1935,"Bronx, NY",Female,Black,Straight,"Singer, Actor"
+Valerie Perrine,Q259461,496/000024424,3-Sep-1943,"Galveston, TX",Female,White,Straight,Actor
+François Truffaut,Q53002,391/000044259,6-Feb-1932,"Paris, France",Male,White,Straight,"Film Director, Author"
+John Cassavetes,Q51488,316/000026238,9-Dec-1929,New York City,Male,White,Straight,"Actor, Film Director"
+Fred Astaire,Q100937,372/000026294,10-May-1899,"Omaha, NEDied: 22-Jun-1987",Male,White,Straight,"Dancer, Actor, Singer"
+Michael V. Gazzo,Q218605,NA,NA,NA,NA,NA,NA,NA
+Lee Strasberg,Q297945,304/000057133,17-Nov-1901,"Budanov, Ukraine",Male,White,Straight,"Theater Director, Actor"
+Valentina Cortese,Q259986,341/000091068,1-Jan-1925,"Milan, Italy",Female,White,Straight,Actor
+Madeline Kahn,Q234068,620/000043491,29-Sep-1942,"Boston, MADied: 3-Dec-1999",Female,White,Straight,Actor
+Barbra Streisand,Q4636,526/000022460,24-Apr-1942,"Brooklyn, NY",Female,White,Straight,Singer
+George Roy Hill,Q51570,783/000032687,20-Dec-1921,"Minneapolis, MNDied: 27-Dec-2002",Male,White,Straight,Film Director
+William Friedkin,Q51582,112/000024040,29-Aug-1935,"Chicago, IL",Male,White,Straight,Film Director
+John Houseman,Q315734,686/000042560,22-Sep-1902,"Bucharest, Romania",Male,White,Straight,Actor
+Jack Gilford,Q555182,985/000132589,25-Jul-1908,New York City,Male,White,Straight,Actor
+Jason Miller,Q414321,NA,NA,NA,NA,NA,NA,NA
+Randy Quaid,Q316647,623/000022557,1-Oct-1950,"Houston, TX",Male,White,Straight,Actor
+Tatum O'Neal,Q230138,104/000024032,5-Nov-1963,"Los Angeles, CA",Female,White,Straight,Actor
+Linda Blair,Q232280,796/000022730,22-Jan-1959,"St. Louis, MO",Female,White,Straight,Actor
+Candy Clark,Q40067,798/000131405,20-Jun-1947,"Norman, OK",Female,White,Straight,Actor
+Sylvia Sidney,Q231595,654/000050504,8-Aug-1910,"Bronx, NYDied: 1-Jul-1999",Female,White,Straight,Actor
+Paul Winfield,Q344576,272/000024200,22-May-1941,"Los Angeles, CADied: 7-Mar-2004",Male,Black,Gay,Actor
+Liza Minnelli,Q14441,724/000024652,12-Mar-1946,"Los Angeles, CA",Female,White,NA,"Singer, Actor"
+Diana Ross,Q36290,805/000022739,26-Mar-1944,"Detroit, MI",Female,Black,Straight,"Singer, Actor"
+Cicely Tyson,Q238081,709/000023640,18-Dec-1924,"Harlem, NY",Female,Black,Straight,Actor
+Joseph L. Mankiewicz,Q51583,723/000032627,11-Feb-1909,"Wilkes-Barre, PADied: 5-Feb-1993",Male,White,Straight,Film Director
+Jan Troell,Q381876,NA,NA,NA,NA,NA,NA,NA
+Joel Grey,Q316641,853/000048709,11-Apr-1932,"Cleveland, OH",Male,White,Gay,Actor
+Eddie Albert,Q313046,624/000022558,22-Apr-1906,"Rock Island, ILDied: 26-May-2005",Male,White,Straight,Actor
+James Caan,Q95043,738/000022672,26-Mar-1940,"Bronx, NY",Male,White,Straight,Actor
+Eileen Heckart,Q239745,828/000063639,29-Mar-1919,"Columbus, OHDied: 31-Dec-2001",Female,White,Straight,Actor
+Jeannie Berlin,Q442907,444/000352385,1-Nov-1949,"Los Angeles, CA",Female,White,NA,Actor
+Susan Tyrrell,Q266432,223/000030133,18-Mar-1945,"San Francisco, CADied: 16-Jun-2012",Female,White,Straight,Actor
+Shelley Winters,Q202144,859/000022793,18-Aug-1920,"St. Louis, MODied: 14-Jan-2006",Female,White,Straight,Actor
+George C. Scott,Q182450,025/000022956,18-Oct-1927,"Wise, VADied: 22-Sep-1999",Male,White,Straight,Actor
+Chaim Topol,Q319133,487/000163995,9-Sep-1935,"Tel Aviv, Palestine",Male,White,Straight,Actor
+Janet Suzman,Q271867,462/000104150,9-Feb-1939,"Johannesburg, South Africa",Female,White,Straight,Actor
+Peter Bogdanovich,Q158250,100/000024028,30-Jul-1939,"Kingston, NY",Male,White,Straight,Film Director
+John Schlesinger,Q55303,771/000032675,16-Feb-1926,"London, England",Male,White,Gay,Film Director
+Ben Johnson,Q224054,NA,NA,NA,NA,NA,NA,NA
+Leonard Frey,Q303715,686/000160206,4-Sep-1938,"Brooklyn, NYDied: 24-Aug-1988",Male,White,Gay,Actor
+Richard Jaeckel,Q1530639,401/000131008,10-Oct-1926,"Long Beach, NYDied: 14-Jun-1997",Male,White,Straight,Actor
+Cloris Leachman,Q230131,177/000023108,30-Apr-1926,"Des Moines, IA",Female,White,Straight,Actor
+Barbara Harris,Q807461,NA,NA,NA,NA,NA,NA,NA
+Margaret Leighton,Q179496,574/000092298,26-Feb-1922,"Barnt Green, Worcestershire, England",Female,White,Straight,Actor
+James Earl Jones,Q203960,762/000022696,17-Jan-1931,"Arkabutla, MS",Male,Black,Straight,Actor
+Ryan O'Neal,Q272923,101/000024029,20-Apr-1941,"Los Angeles, CA",Male,White,Straight,Actor
+Ali MacGraw,Q229983,025/000023953,1-Apr-1938,"Pound Ridge, NY",Female,White,Straight,"Actor, Model"
+Sarah Miles,Q231187,844/000110514,31-Dec-1941,"Ingatestone, Essex, England",Female,White,Straight,Actor
+Carrie Snodgress,Q266425,039/000043907,27-Oct-1946,"Park Ridge, ILDied: 1-Apr-2004",Female,White,Straight,Actor
+Franklin J. Schaffner,Q51503,509/000032413,30-May-1920,"Tokyo, Japan",Male,White,Straight,Film Director
+Arthur Hiller,Q455043,963/000022897,22-Nov-1923,"Edmonton, Alberta, Canada",Male,White,Straight,Film Director
+Ken Russell,Q55249,209/000023140,3-Jul-1927,"Southampton, Hampshire, England",Male,White,Straight,Film Director
+John Mills,Q315728,701/000030611,22-Feb-1908,"Felixstowe, Suffolk, England",Male,White,Straight,Actor
+Richard S. Castellano,Q464714,878/000115533,4-Sep-1933,"Bronx, NYDied: 10-Dec-1988",Male,White,Straight,Actor
+Chief Dan George,Q577606,758/000141335,24-Jul-1899,"Vancouver, British Columbia, Canada",Male,American Aborigine,NA,Actor
+John Marley,Q946196,776/000137365,17-Oct-1907,New York City,Male,White,Straight,Actor
+Helen Hayes,Q213302,908/000031815,10-Oct-1900,"Washington, DCDied: 17-Mar-1993",Female,White,Straight,Actor
+Karen Black,Q232333,405/000024333,1-Jul-1939,"Park Ridge, ILDied: 7-Aug-2013",Female,White,Straight,Actor
+Sally Kellerman,Q266391,983/000023914,2-Jun-1937,"Long Beach, CA",Female,White,Straight,Actor
+John Wayne,Q40531,605/000023536,26-May-1907,"Winterset, IADied: 11-Jun-1979",Male,White,Straight,Actor
+Geneviève Bujold,Q232845,961/000047820,1-Jul-1942,"Montreal, Quebec, Canada",Female,White,Straight,Actor
+Jean Simmons,Q107656,535/000032439,31-Jan-1929,"London, England",Female,White,Straight,Actor
+Arthur Penn,Q41136,921/000022855,27-Sep-1922,"Philadelphia, PADied: 28-Sep-2010",Male,White,Straight,Film Director
+Costa-Gavras,Q296698,920/000115575,12-Feb-1933,"Loutra-Iraias, Greece",Male,White,Straight,Film Director
+Gig Young,Q344758,110/000063918,4-Nov-1913,"St. Cloud, MNDied: 19-Oct-1978",Male,White,Straight,Actor
+Rupert Crosse,Q945512,NA,NA,NA,NA,NA,NA,NA
+Elliott Gould,Q314805,024/000022955,29-Aug-1938,"Brooklyn, NY",Male,White,Straight,Actor
+Anthony Quayle,Q347711,734/000101431,7-Sep-1913,"Ainsdale, Lancashire, England",Male,White,Straight,Actor
+Catherine Burns,Q456202,529/000349479,24-Sep-1945,New York City,Female,White,NA,Actor
+Susannah York,Q225509,159/000130766,9-Jan-1941,"London, England",Female,White,Straight,Actor
+Cliff Robertson,Q181899,134/000023065,9-Sep-1923,"La Jolla, CADied: 10-Sep-2011",Male,White,Straight,Actor
+Alan Bates,Q309160,025/000024950,17-Feb-1934,"Allestree, Derbyshire, England",Male,White,Bisexual,Actor
+Ron Moody,Q366910,339/000025264,8-Jan-1924,"London, England",Male,White,Straight,Actor
+Patricia Neal,Q191027,226/000042100,20-Jan-1926,"Packard, KYDied: 8-Aug-2010",Female,White,Straight,Actor
+Carol Reed,Q95143,290/000064098,30-Dec-1906,"London, England",Male,White,Straight,Film Director
+Gillo Pontecorvo,Q53031,NA,NA,NA,NA,NA,NA,NA
+Anthony Harvey,Q543124,NA,NA,NA,NA,NA,NA,NA
+Franco Zeffirelli,Q53040,937/000022871,12-Feb-1923,"Florence, Italy",Male,White,Gay,Film Director
+Seymour Cassel,Q708153,212/000136801,22-Jan-1935,"Detroit, MI",Male,White,Straight,Actor
+Daniel Massey,Q16230217,NA,NA,NA,NA,NA,NA,NA
+Jack Wild,Q338177,580/000089313,30-Sep-1952,"Royton, Lancashire, England",Male,White,Straight,Actor
+Gene Wilder,Q191966,852/000023783,11-Jun-1933,"Milwaukee, WIDied: 28-Aug-2016",Male,White,Straight,"Actor, Film Director"
+Jack Albertson,Q344735,559/000049412,16-Jun-1907,"Malden, MADied: 25-Nov-1981",Male,White,NA,Actor
+Lynn Carlin,Q456228,NA,NA,NA,NA,NA,NA,NA
+Sondra Locke,Q284166,790/000024718,28-May-1944,"Shelbyville, TN",Female,White,Straight,Actor
+Kay Medford,Q468634,224/000349174,14-Sep-1914,New York City,Female,White,NA,Actor
+Estelle Parsons,Q232541,475/000032379,20-Nov-1927,"Marblehead, MA",Female,White,Straight,Actor
+Rod Steiger,Q273215,762/000026684,14-Apr-1925,"Westhampton, NYDied: 9-Jul-2002",Male,White,Straight,Actor
+Spencer Tracy (posthumous nomination),NULL,NA,NA,NA,NA,NA,NA,NA
+Edith Evans,Q236718,472/000116124,8-Feb-1888,"London, England",Female,White,Straight,Actor
+Audrey Hepburn,Q42786,933/000026855,4-May-1929,"Brussels, Belgium",Female,White,Straight,Actor
+Richard Brooks,Q434342,534/000032438,18-May-1912,"Philadelphia, PADied: 11-Mar-1992",Male,White,Straight,"Film Director, Screenwriter"
+Stanley Kramer,Q73136,120/000056949,29-Sep-1913,"Brooklyn, NYDied: 19-Feb-2001",Male,White,Straight,Film Director
+George Kennedy,Q298818,001/000022932,18-Feb-1925,New York City,Male,White,Straight,Actor
+Cecil Kellaway,Q891104,487/000092211,22-Aug-1893,"Cape Town, South Africa",Male,White,Straight,Actor
+Michael J. Pollard,Q730270,243/000130850,30-May-1939,"Passaic, NJ",Male,White,Straight,Actor
+Carol Channing,Q237287,935/000022869,31-Jan-1921,"Seattle, WA",Female,Multiracial,Straight,"Singer, Actor"
+Mildred Natwick,Q240217,058/000130665,19-Jun-1905,"Baltimore, MDDied: 25-Oct-1994",Female,White,NA,Actor
+Beah Richards,Q469454,056/000132657,12-Jul-1920,"Vicksburg, MSDied: 14-Sep-2000",Female,Black,Straight,Actor
+Katharine Ross,Q232837,335/000085080,29-Jan-1940,"Hollywood, CA",Female,White,Straight,Actor
+Elizabeth Taylor,Q34851,624/000023555,27-Feb-1932,"London, England",Female,White,Straight,Actor
+Anouk Aimée,Q228607,435/000108111,27-Apr-1932,"Paris, France",Female,White,Straight,Actor
+Ida Kamińska,Q284087,NA,NA,NA,NA,NA,NA,NA
+Michelangelo Antonioni,Q55433,650/000022584,29-Sep-1912,"Ferrara, Italy",Male,White,Straight,Film Director
+Claude Lelouch,Q295093,061/000137647,30-Oct-1937,"Paris, France",Male,White,Straight,Film Director
+Mako,Q13476445,NA,NA,NA,NA,NA,NA,NA
+George Segal,Q449900,784/000023715,13-Feb-1934,"Great Neck, NY",Male,White,Straight,Actor
+Robert Shaw,Q492138,NA,NA,NA,NA,NA,NA,NA
+Sandy Dennis,Q239691,961/000063772,27-Apr-1937,"Hastings, NEDied: 2-Mar-1992",Female,White,Bisexual,Actor
+Wendy Hiller,Q230626,056/000063864,15-Aug-1912,"Bramhall, Cheshire, England",Female,White,Straight,Actor
+Jocelyne LaGarde,Q455953,NA,NA,NA,NA,NA,NA,NA
+Vivien Merchant,Q266397,NA,NA,NA,NA,NA,NA,NA
+Lee Marvin,Q76895,314/000026236,19-Feb-1924,New York City,Male,White,Straight,Actor
+Oskar Werner,Q84489,661/000136253,13-Nov-1922,"Vienna, Austria",Male,White,Straight,Actor
+Samantha Eggar,Q231385,354/000130961,5-Mar-1939,"London, England",Female,White,Straight,Actor
+Elizabeth Hartman,Q266451,657/000136249,23-Dec-1943,"Youngstown, OHDied: 10-Jun-1987",Female,White,Straight,Actor
+Simone Signoret,Q106126,804/000063615,25-Mar-1921,"Wiesbaden, Germany",Female,White,Straight,Actor
+Robert Wise,Q59821,460/000032364,10-Sep-1914,"Winchester, INDied: 14-Sep-2005",Male,White,Straight,Film Director
+Hiroshi Teshigahara,Q741623,NA,NA,NA,NA,NA,NA,NA
+William Wyler,Q51495,463/000032367,1-Jul-1902,"Mulhouse, Haut-Rhin, Alsace, France",Male,White,Straight,Film Director
+Martin Balsam,Q312107,111/000063919,4-Nov-1919,"Bronx, NYDied: 13-Feb-1996",Male,White,Straight,Actor
+Ian Bannen,Q499097,269/000130876,28-Jun-1928,"Airdrie, Lanarkshire, Scotland",Male,White,Straight,Actor
+Michael Dunn,Q6829990,NA,NA,NA,NA,NA,NA,NA
+Frank Finlay,Q738521,266/000205648,6-Aug-1926,"Farnworth, Lancashire, England",Male,White,Straight,Actor
+Ruth Gordon,Q232562,818/000043689,30-Oct-1896,"Quincy, MADied: 28-Aug-1985",Female,White,Straight,Actor
+Joyce Redman,Q442956,552/000279712,9-Dec-1915,"Newcastle, County Down, Ireland",Female,White,Straight,Actor
+Peggy Wood,Q266445,233/000280390,9-Feb-1892,"Brooklyn, NYDied: 18-Mar-1978",Female,White,Straight,Actor
+Rex Harrison,Q181887,132/000043003,5-Mar-1908,"Huyton, Lancashire, England",Male,White,Straight,Actor
+Anthony Quinn,Q83484,228/000032132,21-Apr-1915,"Chihuahua, Mexico",Male,Hispanic,Straight,Actor
+Sophia Loren,Q43252,811/000023742,20-Sep-1934,"Pozzuoli, Italy",Female,White,Straight,Actor
+Debbie Reynolds,Q263696,609/000022543,1-Apr-1932,"El Paso, TXDied: 28-Dec-2016",Female,White,Straight,"Actor, Dancer"
+George Cukor,Q56014,373/000041250,7-Jul-1899,New York City,Male,White,Gay,Film Director
+Peter Glenville,Q1351492,460/000213818,28-Oct-1913,"London, England",Male,White,Gay,Film Director
+Robert Stevenson,Q415027,NA,NA,NA,NA,NA,NA,NA
+Michael Cacoyannis,Q315374,093/000174568,11-Jun-1922,"Limassol, Cyprus",Male,White,NA,Film Director
+Peter Ustinov,Q55796,810/000022744,16-Apr-1921,"London, England",Male,White,Straight,Actor
+Stanley Holloway,Q549287,729/000101426,1-Oct-1890,"London, England",Male,White,Straight,"Actor, Singer"
+Edmond O'Brien,Q119935,620/000042494,10-Sep-1915,New York City,Male,White,Straight,Actor
+Lee Tracy,Q1812027,647/000043518,14-Apr-1898,"Atlanta, GADied: 18-Oct-1968",Male,White,NA,Actor
+Lila Kedrova,Q232879,049/000063857,9-Oct-1918,"St. Petersburg, Russia",Female,White,Straight,Actor
+Gladys Cooper,Q235299,465/000131072,18-Dec-1888,"London, England",Female,White,Straight,Actor
+Grayson Hall,Q468426,142/000279302,18-Sep-1922,"Philadelphia, PADied: 7-Aug-1985",Female,White,Straight,Actor
+Agnes Moorehead,Q231221,899/000078665,6-Dec-1900,"Clinton, MADied: 30-Apr-1974",Female,White,Matter of Dispute,Actor
+Sidney Poitier,Q104049,200/000023131,20-Feb-1927,"Miami, FL",Male,Black,Straight,"Actor, Film Director"
+Leslie Caron,Q230023,300/000083051,1-Jul-1931,"Paris, France",Female,White,Straight,"Dancer, Actor"
+Rachel Roberts,Q402196,NA,NA,NA,NA,NA,NA,NA
+Natalie Wood,Q180919,169/000026091,20-Jul-1938,"San Francisco, CADied: 29-Nov-1981",Female,White,Straight,Actor
+Tony Richardson,Q52411,249/000043120,5-Jun-1928,"Shipley, Yorkshire, England",Male,White,Bisexual,Film Director
+Elia Kazan,Q72717,537/000026459,7-Sep-1909,"Istanbul, Turkey",Male,White,Straight,Film Director
+Martin Ritt,Q287451,382/000042256,2-Mar-1914,New York City,Male,White,NA,"Film Director, Playwright"
+Otto Preminger,Q52997,456/000026378,5-Dec-1906,"Vienna, Austria",Male,White,Straight,"Film Director, Actor"
+Nick Adams,Q1901917,NA,NA,NA,NA,NA,NA,NA
+Bobby Darin,Q311267,103/000044968,14-May-1936,"Bronx, NYDied: 20-Dec-1973",Male,White,Straight,"Singer, Actor"
+Hugh Griffith,Q310934,120/000063928,30-May-1912,"Marian Glas, Anglesey, Wales",Male,White,NA,Actor
+Margaret Rutherford,Q230143,052/000063860,11-May-1892,"London, England",Female,White,Straight,Actor
+Diane Cilento,Q238871,753/000136345,5-Oct-1933,"Mooloolaba, Queensland, Australia",Female,White,Straight,Actor
+Lilia Skala,Q113672,664/000135259,28-Nov-1896,"Vienna, Austria-Hungary",Female,White,Straight,Actor
+Gregory Peck,Q108366,774/000023705,5-Apr-1916,"La Jolla, CADied: 12-Jun-2003",Male,White,Straight,Actor
+Bette Davis,Q71206,457/000026379,5-Apr-1908,"Lowell, MADied: 6-Oct-1989",Female,White,Straight,Actor
+Lee Remick,Q230011,917/000026839,14-Dec-1935,"Quincy, MADied: 2-Jul-1991",Female,White,Straight,Actor
+Pietro Germi,Q53006,NA,NA,NA,NA,NA,NA,NA
+Robert Mulligan,Q467785,838/000032742,23-Aug-1925,"Bronx, NYDied: 20-Dec-2008",Male,White,Straight,Film Director
+Frank Perry,Q1350623,872/000133473,21-Aug-1930,New York City,Male,White,Straight,Film Director
+Ed Begley,Q318312,915/000043786,25-Mar-1901,"Hartford, CTDied: 28-Apr-1970",Male,White,Straight,Actor
+Victor Buono,Q557601,394/000044262,3-Feb-1938,"San Diego, CADied: 1-Jan-1982",Male,White,Gay,Actor
+Telly Savalas,Q209471,319/000026241,22-Jan-1922,"Garden City, Long Island, NYDied: 22-Jan-1994",Male,White,Straight,Actor
+Omar Sharif,Q170515,627/000023558,10-Apr-1932,"Alexandria, Egypt",Male,Middle Eastern,Straight,Actor
+Terence Stamp,Q77298,099/000024027,22-Jul-1939,"London, England",Male,White,Straight,Actor
+Patty Duke,Q232538,775/000022709,14-Dec-1946,"Queens, NYDied: 29-Mar-2016",Female,White,Straight,Actor
+Mary Badham,Q267757,778/000160298,7-Oct-1952,"Birmingham, AL",Female,White,Straight,Actor
+Shirley Knight,Q238884,151/000130758,5-Jul-1936,"Goessel, KS",Female,White,Straight,Actor
+Angela Lansbury,Q206856,142/000023073,16-Oct-1925,"London, England",Female,White,Straight,Actor
+Thelma Ritter,Q229266,813/000089546,14-Feb-1905,"Brooklyn, NYDied: 4-Feb-1969",Female,White,Straight,Actor
+Charles Boyer,Q105987,888/000065693,28-Aug-1899,"Figeac, Lot, Midi-Pyrénées, France",Male,White,Straight,Actor
+Spencer Tracy,Q71275,979/000024907,5-Apr-1900,"Milwaukee, WIDied: 10-Jun-1967",Male,White,Straight,Actor
+Stuart Whitman,Q470998,543/000110213,1-Feb-1926,"San Francisco, CA",Male,White,Straight,Actor
+Robert Wise and Jerome Robbins,NULL,NA,NA,NA,NA,NA,NA,NA
+J. Lee Thompson,Q456979,403/000042277,1-Aug-1914,"Bristol, England",Male,White,Straight,Film Director
+Robert Rossen,Q433113,176/000135768,16-Mar-1908,New York City,Male,White,Straight,"Screenwriter, Film Director"
+George Chakiris,Q336841,119/000063927,16-Sep-1934,"Norwood, OH",Male,White,Gay,"Actor, Dancer"
+Montgomery Clift,Q193102,920/000043791,17-Oct-1920,"Omaha, NEDied: 23-Jul-1966",Male,White,Gay,Actor
+Peter Falk,Q484881,222/000023153,16-Sep-1927,New York City,Male,White,Straight,Actor
+Jackie Gleason,Q454200,612/000022546,26-Feb-1916,"Brooklyn, NYDied: 24-Jun-1987",Male,White,Straight,Actor
+Rita Moreno,Q230151,463/000023394,11-Dec-1931,"Humacao, Puerto Rico",Female,Hispanic,Straight,Actor
+Fay Bainter,Q152888,074/000063882,7-Dec-1891,"Los Angeles, CADied: 16-Apr-1968",Female,White,Straight,Actor
+Judy Garland,Q11637,123/000023054,10-Jun-1922,"Grand Rapids, MNDied: 22-Jun-1969",Female,White,Straight,"Singer, Actor"
+Lotte Lenya,Q93604,216/000205598,18-Oct-1898,"Vienna, Austria-Hungary",Female,White,Straight,Singer
+Una Merkel,Q266473,896/000121533,10-Dec-1903,"Covington, KYDied: 2-Jan-1986",Female,White,Straight,Actor
+Trevor Howard,Q343037,809/000042683,29-Sep-1913,"Cliftonville, Kent, England",Male,White,Straight,Actor
+Greer Garson,Q182486,293/000044161,29-Sep-1904,"London, England",Female,White,Straight,Actor
+Deborah Kerr,Q104146,715/000025640,30-Sep-1921,"Helensburgh, Scotland",Female,White,Straight,Actor
+Melina Mercouri,Q228611,258/000090985,18-Oct-1920,"Athens, Greece",Female,White,Straight,Actor
+Billy Wilder,Q51547,982/000024910,22-Jun-1906,"Sucha, Galicia, Austria",Male,White,Straight,"Film Director, Screenwriter"
+Jules Dassin,Q260969,259/000090986,18-Dec-1911,"Middletown, CTDied: 31-Mar-2008",Male,White,Straight,Film Director
+Alfred Hitchcock,Q7374,664/000026586,13-Aug-1899,"Leytonstone, London, England",Male,White,Straight,Film Director
+Jack Cardiff,Q436704,089/000174564,18-Sep-1914,"Great Yarmouth, Norfolk, England",Male,White,Straight,"Cinematographer, Film Director"
+Jack Kruschen,Q1374376,588/000135183,20-Mar-1922,"Winnipeg, Manitoba, Canada",Male,White,Straight,Actor
+Sal Mineo,Q380997,218/000022152,10-Jan-1939,"Bronx, NYDied: 12-Feb-1976",Male,White,Bisexual,Actor
+Chill Wills,Q1072969,860/000043731,18-Jul-1903,"Seagoville, TXDied: 15-Dec-1978",Male,White,Straight,Actor
+Shirley Jones,Q230218,795/000023726,31-Mar-1934,"Charleroi, PA",Female,White,Straight,Actor
+Glynis Johns,Q272579,087/000131691,5-Oct-1923,"Pretoria, South Africa",Female,White,Straight,Actor
+Janet Leigh,Q205314,211/000023142,6-Jul-1927,"Merced, CADied: 4-Oct-2004",Female,White,Straight,Actor
+Mary Ure,Q264759,881/000136473,18-Feb-1933,"Glasgow, Scotland",Female,White,Straight,Actor
+Charlton Heston,Q80739,961/000022895,4-Oct-1923,"Evanston, ILDied: 5-Apr-2008",Male,White,Straight,Actor
+Laurence Harvey,Q374045,310/000026232,1-Oct-1928,"Jonischkis, Lithuania",Male,White,Straight,Actor
+Paul Muni,Q182292,741/000063552,22-Sep-1895,"Lviv, Ukraine",Male,White,Straight,Actor
+James Stewart,Q102462,659/000026581,20-May-1908,"Indiana, PADied: 2-Jul-1997",Male,White,Straight,Actor
+Doris Day,Q104372,975/000022909,3-Apr-1922,"Cincinnati, OH",Female,White,Straight,"Actor, Singer"
+George Stevens,Q51490,382/000044250,18-Dec-1904,"Oakland, CADied: 8-Mar-1975",Male,White,Straight,Film Director
+Jack Clayton,Q17887,075/000174550,1-Mar-1921,"Brighton, England",Male,White,Straight,Film Director
+Arthur O'Connell,Q710888,259/000136848,29-Mar-1908,New York City,Male,White,Straight,Actor
+Robert Vaughn,Q314834,648/000023579,22-Nov-1932,New York City,Male,White,Straight,Actor
+Ed Wynn,Q259537,595/000108271,9-Nov-1886,"Philadelphia, PADied: 19-Jun-1966",Male,White,Straight,Actor
+Hermione Baddeley,Q443030,417/000138003,13-Nov-1906,"Broseley, Shropshire, England",Female,White,Straight,Actor
+Susan Kohner,Q468476,616/000135211,11-Nov-1936,"Los Angeles, CA",Female,White,Straight,Actor
+Juanita Moore,Q456211,491/000108167,19-Oct-1922,"Los Angeles, CADied: 31-Dec-2013",Female,Black,NA,Actor
+David Niven,Q181917,690/000031597,1-Mar-1909,"London, England",Male,White,Straight,Actor
+Tony Curtis,Q162389,005/000022936,3-Jun-1925,New York City,Male,White,Bisexual,Actor
+Susan Hayward,Q248837,805/000063616,30-Jun-1918,"Brooklyn, NYDied: 14-Mar-1975",Female,White,Straight,Actor
+Rosalind Russell,Q233854,324/000089057,4-Jun-1907,"Waterbury, CTDied: 28-Nov-1976",Female,White,Straight,Actor
+Vincente Minnelli,Q51535,825/000032729,28-Feb-1903,"Chicago, ILDied: 25-Jul-1986",Male,White,Bisexual,Film Director
+Mark Robson,Q31225,337/000078103,4-Dec-1913,"Montreal, Quebec, Canada",Male,White,NA,Film Director
+Burl Ives,Q315723,679/000042553,14-Jun-1909,"Hunt City, ILDied: 14-Apr-1995",Male,White,Straight,"Singer, Actor"
+Theodore Bikel,Q215721,253/000116902,2-May-1924,"Vienna, Austria",Male,White,Straight,"Actor, Singer"
+Lee J. Cobb,Q348351,525/000051372,8-Dec-1911,New York City,Male,White,Straight,Actor
+Arthur Kennedy,Q351838,NA,NA,NA,NA,NA,NA,NA
+Peggy Cass,Q468463,523/000110193,21-May-1924,"Boston, MADied: 8-Mar-1999",Female,White,Straight,Actor
+Martha Hyer,Q271877,263/000130870,10-Aug-1924,"Fort Worth, TXDied: 31-May-2014",Female,White,Straight,Actor
+Cara Williams,Q468661,441/000222772,29-Jun-1925,"Brooklyn, NY",Female,White,Straight,Actor
+Anthony Franciosa,Q358360,441/000032345,25-Oct-1928,New York City,Male,White,Straight,Actor
+Charles Laughton,Q55264,884/000042758,1-Jul-1899,"Victoria Hotel, Scarborough, Yorkshire, England",Male,White,Gay,Actor
+Anna Magnani,Q56011,806/000063617,7-Mar-1908,"Rome, Italy",Female,White,Straight,Actor
+Lana Turner,Q201034,831/000031738,8-Feb-1920,"Wallace, IDDied: 29-Jun-1995",Female,White,Straight,Actor
+Joshua Logan,Q505141,490/000135085,5-Oct-1908,"Texarkana, TXDied: 12-Jul-1988",Male,White,Straight,"Film Director, Playwright"
+Red Buttons,Q313198,820/000022754,5-Feb-1919,New York City,Male,White,Straight,Actor
+Vittorio De Sica,Q53004,592/000045457,7-Jul-1902,"Sora, Latium, Italy",Male,White,Straight,"Film Director, Actor"
+Sessue Hayakawa,Q382068,348/000082102,10-Jun-1889,"Nanaura, Chiba, Japan",Male,Asian,Straight,Actor
+Russ Tamblyn,Q719263,277/000048133,30-Dec-1934,"Los Angeles, CA",Male,White,Straight,"Actor, Dancer"
+Miyoshi Umeki,Q232588,091/000063899,3-Apr-1929,"Otaro, Hokkaido, Japan",Female,Asian,Straight,Actor
+Carolyn Jones,Q238895,473/000049326,28-Apr-1929,"Amarillo, TXDied: 3-Aug-1983",Female,White,Straight,Actor
+Elsa Lanchester,Q233009,885/000042759,28-Oct-1902,"Lewisham, London, England",Female,White,Straight,"Actor, Singer"
+Hope Lange,Q239301,022/000023950,28-Nov-1931,"Redding Ridge, CTDied: 19-Dec-2003",Female,White,Straight,Actor
+Diane Varsi,Q271848,343/000346302,23-Feb-1938,"San Mateo, CADied: 19-Nov-1992",Female,White,Straight,Actor
+Yul Brynner,Q102813,459/000026381,11-Jul-1920,"Vladivostok, Russia",Male,White,Straight,Actor
+James Dean (posthumous nomination),NULL,NA,NA,NA,NA,NA,NA,NA
+Kirk Douglas,Q104027,524/000024452,9-Dec-1916,"Amsterdam, NY",Male,White,Straight,Actor
+Rock Hudson,Q184378,655/000026577,17-Nov-1925,"Winnetka, ILDied: 2-Oct-1985",Male,White,Gay,Actor
+Carroll Baker,Q233891,810/000091537,28-May-1931,"Johnstown, PA",Female,White,Straight,Actor
+Nancy Kelly,Q251634,752/000136344,25-Mar-1921,"Lowell, MADied: 2-Jan-1995",Female,White,Straight,Actor
+Michael Anderson,Q42256,NA,NA,NA,NA,NA,NA,NA
+Walter Lang,Q269796,383/000041260,10-Aug-1896,"Memphis, TNDied: 7-Feb-1972",Male,White,Straight,Film Director
+King Vidor,Q51133,808/000043679,8-Feb-1894,"Galveston, TXDied: 1-Nov-1982",Male,White,Straight,Film Director
+Don Murray,Q950588,NA,NA,NA,NA,NA,NA,NA
+Anthony Perkins,Q193146,845/000024773,4-Apr-1932,New York City,Male,White,Bisexual,Actor
+Robert Stack,Q355153,683/000030593,13-Jan-1919,"Los Angeles, CADied: 14-May-2003",Male,White,Straight,Actor
+Dorothy Malone,Q230126,090/000063898,30-Jan-1925,"Chicago, IL",Female,White,Straight,Actor
+Mildred Dunnock,Q271890,566/000174044,25-Jan-1901,"Baltimore, MDDied: 5-Jul-1991",Female,White,Straight,Actor
+Mercedes McCambridge,Q140017,086/000063894,17-Mar-1916,"Joliet, ILDied: 2-Mar-2004",Female,White,Straight,Actor
+Patty McCormack,Q468646,059/000132660,21-Aug-1945,"Brooklyn, NY",Female,White,Straight,Actor
+Ernest Borgnine,Q102551,730/000022664,24-Jan-1917,"Hamden, CTDied: 8-Jul-2012",Male,White,Straight,Actor
+James Cagney,Q94041,NA,NA,NA,NA,NA,NA,NA
+Frank Sinatra,Q40912,300/000026222,12-Dec-1915,"Hoboken, NJDied: 14-May-1998",Male,White,Straight,"Singer, Actor"
+Jennifer Jones,Q189895,809/000063620,2-Mar-1919,"Tulsa, OKDied: 17-Dec-2009",Female,White,Straight,Actor
+Eleanor Parker,Q237399,373/000102067,26-Jun-1922,"Cedarville, OHDied: 9-Dec-2013",Female,White,Straight,Actor
+Delbert Mann,Q270038,384/000044252,30-Jan-1920,"Lawrence, KSDied: 11-Nov-2007",Male,White,Straight,Film Director
+John Sturges,Q361670,525/000032429,3-Jan-1911,"Oak Park, ILDied: 18-Aug-1992",Male,White,Straight,Film Director
+Joe Mantell,Q1374412,365/000253603,21-Dec-1915,"Brooklyn, NYDied: 29-Sep-2010",Male,White,Straight,Actor
+Jo Van Fleet,Q233832,089/000063897,30-Dec-1914,"Oakland, CADied: 10-Jun-1996",Female,White,Straight,Actor
+Betsy Blair,Q266416,217/000136806,11-Dec-1923,"Cliffside Park, NJDied: 13-Mar-2009",Female,White,Straight,Actor
+Peggy Lee,Q229139,750/000026672,26-May-1920,"Jamestown, NDDied: 21-Jan-2002",Female,White,Straight,Singer
+Marisa Pavan,Q271885,885/000136477,19-Jun-1932,"Cagliari, Sardinia, Italy",Female,White,Straight,Actor
+Humphrey Bogart,Q16390,837/000024765,25-Dec-1899,New York City,Male,White,Straight,Actor
+Bing Crosby,Q72984,651/000026573,3-May-1903,"Tacoma, WADied: 14-Oct-1977",Male,White,Straight,"Singer, Actor"
+Dan O'Herlihy,Q437944,288/000090018,1-May-1919,"Wexford, Ireland",Male,White,Straight,Actor
+Grace Kelly,Q3925,770/000025695,12-Nov-1929,"Philadelphia, PADied: 14-Sep-1982",Female,White,Straight,"Royalty, Actor"
+Dorothy Dandridge,Q229251,815/000067614,9-Nov-1922,"Cleveland, OHDied: 8-Sep-1965",Female,Black,Straight,Actor
+Jane Wyman,Q95055,656/000022590,5-Jan-1917,"St. Joseph, MODied: 10-Sep-2007",Female,White,Straight,Actor
+George Seaton,Q288337,875/000133476,17-Apr-1911,"South Bend, INDied: 28-Jul-1979",Male,White,Straight,"Screenwriter, Film Director"
+William A. Wellman,Q290962,736/000043607,29-Feb-1896,"Brookline, MADied: 9-Dec-1975",Male,White,Straight,Film Director
+Karl Malden,Q94992,553/000022487,22-Mar-1912,"Chicago, ILDied: 1-Jul-2009",Male,White,Straight,Actor
+Tom Tully,Q744381,177/000279337,21-Aug-1908,"Durango, CODied: 27-Apr-1982",Male,White,Straight,Actor
+Eva Marie Saint,Q228928,980/000022914,4-Jul-1924,"Newark, NJ",Female,White,Straight,Actor
+Nina Foch,Q235632,424/000102118,20-Apr-1924,"Leiden, Zuid-Holland, Netherlands",Female,White,Straight,Actor
+Katy Jurado,Q259446,579/000092303,16-Jan-1924,"Guadalajara, Jalisco, Mexico",Female,Hispanic,Straight,Actor
+Jan Sterling,Q259581,634/000044502,3-Apr-1921,"Manhattan, NYDied: 26-Mar-2004",Female,White,Straight,Actor
+Claire Trevor,Q233850,085/000063893,8-Mar-1910,New York City,Female,White,Straight,Actor
+Ava Gardner,Q164487,769/000023700,24-Dec-1922,"Brogden, NCDied: 25-Jan-1990",Female,White,Straight,Actor
+Maggie McNamara,Q470139,676/000133277,18-Feb-1928,New York City,Female,White,Straight,Actor
+Charles Walters,Q953753,208/000078971,17-Nov-1911,"Brooklyn, NYDied: 13-Aug-1982",Male,White,NA,"Film Director, Choreographer"
+Brandon deWilde,Q898134,509/000102203,9-Apr-1942,"Brooklyn, NYDied: 6-Jul-1972",Male,White,NA,Actor
+Robert Strauss,Q617972,NA,NA,NA,NA,NA,NA,NA
+Donna Reed,Q224021,702/000031609,27-Jan-1921,"Denison, IADied: 14-Jan-1986",Female,White,Straight,Actor
+Marjorie Rambeau,Q455912,572/000092296,15-Jul-1889,"San Francisco, CADied: 6-Jul-1970",Female,White,Straight,Actor
+Gary Cooper,Q93957,740/000031647,7-May-1901,"Helena, MTDied: 14-May-1961",Male,White,Straight,Actor
+José Ferrer,Q312098,311/000026233,8-Jan-1909,"Santurce, Puerto Rico",Male,Hispanic,Straight,Actor
+Shirley Booth,Q253308,807/000063618,30-Aug-1898,New York City,Female,White,Straight,Actor
+Joan Crawford,Q40475,837/000031744,23-Mar-1905,"San Antonio, TXDied: 10-May-1977",Female,White,Bisexual,Actor
+Julie Harris,Q3189219,NA,NA,NA,NA,NA,NA,NA
+John Ford,Q51114,458/000032362,1-Feb-1894,"Cape Elizabeth, MEDied: 31-Aug-1973",Male,White,Bisexual,Film Director
+Cecil B. DeMille,Q72267,621/000031528,12-Aug-1881,"Ashfield, MADied: 21-Jan-1959",Male,White,Straight,"Film Director, Film/TV Producer"
+Arthur Hunnicutt,Q709942,693/000131300,17-Feb-1910,"Gravelly, ARDied: 26-Sep-1979",Male,White,NA,Actor
+Victor McLaglen,Q329577,452/000047311,11-Dec-1883,"Tunbridge Wells, Kent, England",Male,White,Straight,Actor
+Gloria Grahame,Q59314,088/000063896,28-Nov-1923,"Los Angeles, CADied: 5-Oct-1981",Female,White,Straight,Actor
+Jean Hagen,Q235744,332/000044200,3-Aug-1923,"Chicago, ILDied: 29-Aug-1977",Female,White,Straight,Actor
+Colette Marchand,Q542637,NA,NA,NA,NA,NA,NA,NA
+Terry Moore,Q1902635,NA,NA,NA,NA,NA,NA,NA
+Fredric March,Q181819,255/000043126,31-Aug-1897,"Racine, WIDied: 14-Apr-1975",Male,White,Straight,Actor
+Vivien Leigh,Q129429,470/000022404,5-Nov-1913,"Darjeeling, India",Female,White,Straight,Actor
+Leo Genn,Q946210,760/000136352,9-Aug-1905,"London, England",Male,White,Straight,Actor
+Kevin McCarthy,Q416145,NA,NA,NA,NA,NA,NA,NA
+Kim Hunter,Q59824,501/000051348,12-Nov-1922,"Detroit, MIDied: 11-Sep-2002",Female,White,Straight,Actor
+Joan Blondell,Q242729,218/000032122,30-Aug-1906,New York City,Female,White,Straight,Actor
+Louis Calhern,Q573399,743/000050593,19-Feb-1895,"Brooklyn, NYDied: 12-May-1956",Male,White,Straight,Actor
+Judy Holliday,Q253298,808/000063619,21-Jun-1921,New York City,Female,White,Straight,Actor
+Anne Baxter,Q228906,458/000026380,7-May-1923,"Michigan City, INDied: 12-Dec-1985",Female,White,Straight,Actor
+Gloria Swanson,Q229232,979/000043850,27-Mar-1897,"Chicago, ILDied: 4-Apr-1983",Female,White,Straight,Actor
+George Sanders,Q296491,728/000043599,3-Jul-1906,"St. Petersburg, Russia",Male,White,Straight,Actor
+Jeff Chandler,Q558844,597/000101294,15-Dec-1918,"Brooklyn, NYDied: 17-Jun-1961",Male,White,Straight,Actor
+Edmund Gwenn,Q344750,123/000063931,26-Sep-1875,"Vale of Glamorgan, Wales",Male,White,NA,Actor
+Sam Jaffe,Q719247,451/000047310,10-Mar-1891,New York City,Male,White,Straight,Actor
+Erich von Stroheim,Q78508,303/000044171,22-Sep-1885,"Vienna, Austria",Male,White,Straight,"Actor, Film Director"
+Josephine Hull,Q59525,087/000063895,3-Jan-1886,"Newtonville, MADied: 12-Mar-1957",Female,White,Straight,Actor
+Hope Emerson,Q456166,214/000078977,29-Oct-1897,"Hawarden, IADied: 25-Apr-1960",Female,White,NA,Actor
+Celeste Holm,Q212957,084/000063892,29-Apr-1917,New York City,Female,White,Straight,Actor
+Nancy Olson,Q259453,816/000102510,14-Jul-1928,"Milwaukee, WI",Female,White,Straight,Actor
+Broderick Crawford,Q182349,744/000063555,9-Dec-1911,"Philadelphia, PADied: 26-Apr-1986",Male,White,Straight,Actor
+Richard Todd,Q457165,394/000110064,11-Jun-1919,"Dublin, Ireland",Male,White,Straight,Actor
+Olivia de Havilland,Q95068,741/000022675,1-Jul-1916,"Tokyo, Japan",Female,White,Straight,Actor
+Jeanne Crain,Q238032,659/000030569,25-May-1925,"Barstow, CADied: 14-Dec-2003",Female,White,Straight,Actor
+Loretta Young,Q253384,089/000031993,6-Jan-1913,"Salt Lake City, UTDied: 12-Aug-2000",Female,White,Straight,Actor
+Dean Jagger,Q471309,121/000063929,7-Nov-1903,"Lima, OHDied: 5-Feb-1991",Male,White,Straight,Actor
+John Ireland,Q346133,NA,NA,NA,NA,NA,NA,NA
+Ralph Richardson,Q381285,944/000091671,19-Dec-1902,"Cheltenham, Gloucestershire, England",Male,White,Straight,Actor
+Ethel Barrymore,Q230147,743/000043614,15-Aug-1879,"Philadelphia, PADied: 18-Jun-1959",Female,White,Straight,Actor
+Ethel Waters,Q242725,096/000023027,31-Oct-1896,"Chester, PADied: 1-Sep-1977",Female,Black,Bisexual,Singer
+Lew Ayres,Q444371,636/000043507,28-Dec-1908,"Minneapolis, MNDied: 30-Dec-1996",Male,White,Straight,Actor
+Dan Dailey,Q1159045,286/000086028,14-Dec-1913,New York City,Male,White,Straight,Actor
+Clifton Webb,Q560592,873/000078639,11-Nov-1889,"Indianapolis, INDied: 13-Oct-1966",Male,White,Matter of Dispute,Actor
+Irene Dunne,Q230099,346/000044214,20-Dec-1898,"Louisville, KYDied: 4-Sep-1990",Female,White,Straight,Actor
+Barbara Stanwyck,Q94002,766/000026688,16-Jul-1907,"Brooklyn, NYDied: 20-Jan-1990",Female,White,Matter of Dispute,Actor
+Jean Negulesco,Q286104,811/000043682,26-Feb-1900,"Craiova, Romania",Male,White,Straight,Film Director
+Anatole Litvak,Q213581,314/000078080,10-May-1902,"Kiev, Ukraine",Male,White,Straight,Film Director
+Walter Huston,Q162621,122/000063930,6-Apr-1884,"Toronto, Ontario, Canada",Male,White,Straight,Actor
+Charles Bickford,Q710538,453/000079216,1-Jan-1891,"Cambridge, MADied: 9-Nov-1967",Male,White,Straight,Actor
+Oskar Homolka,Q79044,190/000205572,12-Aug-1898,"Vienna, Austria-Hungary",Male,White,Straight,Actor
+Barbara Bel Geddes,Q232421,925/000022859,31-Oct-1922,New York City,Female,White,Straight,Actor
+Ellen Corby,Q368794,829/000109502,3-Jun-1911,"Racine, WIDied: 14-Apr-1999",Female,White,Straight,Actor
+Ronald Colman,Q181786,619/000042493,9-Feb-1891,"Richmond, Surrey, England",Male,White,Straight,Actor
+John Garfield,Q367053,633/000043504,4-Mar-1913,New York City,Male,White,Straight,Actor
+William Powell,Q105960,967/000078733,29-Jul-1892,"Pittsburgh, PADied: 5-Mar-1984",Male,White,Straight,Actor
+Michael Redgrave,Q318263,400/000079163,20-Mar-1908,"Bristol, Gloucestershire, England",Male,White,Bisexual,Actor
+Dorothy McGuire,Q155116,294/000064102,14-Jun-1916,"Omaha, NEDied: 13-Sep-2001",Female,White,Straight,Actor
+Henry Koster,Q61859,330/000078096,1-May-1905,"Berlin, Germany",Male,White,Straight,Film Director
+Edward Dmytryk,Q72229,674/000032578,4-Sep-1908,"Grand Forks, British Columbia, Canada",Male,White,Straight,Film Director
+Thomas Gomez,Q363864,707/000136299,10-Jul-1905,New York City,Male,White,NA,Actor
+Robert Ryan,Q350680,722/000080482,11-Nov-1909,"Chicago, ILDied: 11-Jul-1973",Male,White,Straight,Actor
+Richard Widmark,Q320036,701/000022635,26-Dec-1914,"Sunrise, MNDied: 24-Mar-2008",Male,White,Straight,"Actor, Film/TV Producer"
+Marjorie Main,Q445018,385/000109058,24-Feb-1890,"Acton, INDied: 10-Apr-1975",Female,White,Bisexual,Actor
+Anne Revere,Q239770,081/000063889,25-Jun-1903,New York City,Female,White,Straight,Actor
+Larry Parks,Q577680,526/000051373,13-Dec-1914,"Olathe, KSDied: 13-Apr-1975",Male,White,Straight,Actor
+Celia Johnson,Q272075,833/000101530,18-Dec-1908,"Richmond, Surrey, England",Female,White,Straight,Actor
+Frank Capra,Q51492,459/000032363,18-May-1897,"Bisacquino, Sicily, Italy",Male,White,Straight,Film Director
+Robert Siodmak,Q51498,069/000134664,8-Aug-1900,"Dresden, Germany",Male,White,Straight,Film Director
+Clarence Brown,Q435029,336/000078102,10-May-1890,"Clinton, MADied: 17-Aug-1987",Male,White,Straight,Film Director
+Harold Russell,Q457279,124/000063932,14-Jan-1914,"North Sydney, Nova Scotia, Canada",Male,White,Straight,Actor
+Charles Coburn,Q350690,127/000063935,17-Jun-1877,"Savannah, GADied: 30-Aug-1961",Male,White,Straight,Actor
+William Demarest,Q1395104,975/000078741,27-Feb-1892,"St. Paul, MNDied: 28-Dec-1983",Male,White,Straight,Actor
+Claude Rains,Q318734,631/000043502,10-Nov-1889,"London, England",Male,White,Straight,Actor
+Lillian Gish,Q104183,002/000031906,14-Oct-1893,"Springfield, OHDied: 27-Feb-1993",Female,White,Straight,Actor
+Flora Robson,Q264004,726/000101423,28-Mar-1902,"South Shields, Durham, England",Female,White,NA,Actor
+Gale Sondergaard,Q233845,062/000063870,15-Feb-1899,"Litchfield, MNDied: 14-Aug-1985",Female,White,Straight,Actor
+Ray Milland,Q181774,814/000042688,3-Jan-1907,"Neath, Wales",Male,White,Straight,Actor
+Gene Kelly,Q73089,665/000031572,23-Aug-1912,"Pittsburgh, PADied: 2-Feb-1996",Male,White,Straight,"Actor, Dancer"
+Cornel Wilde,Q727740,607/000092331,13-Oct-1915,New York City,Male,White,Straight,Actor
+Gene Tierney,Q230555,913/000026835,19-Nov-1920,"Brooklyn, NYDied: 6-Nov-1991",Female,White,Straight,Actor
+Leo McCarey,Q332530,380/000044248,3-Oct-1898,"Los Angeles, CADied: 5-Jul-1969",Male,White,Straight,Film Director
+Jean Renoir,Q50713,593/000045458,15-Sep-1894,"Paris, France",Male,White,Straight,Film Director
+James Dunn,Q1442674,NA,NA,NA,NA,NA,NA,NA
+Michael Chekhov,Q49492,NA,NA,NA,NA,NA,NA,NA
+John Dall,Q1336879,213/000140790,26-May-1918,New York City,Male,White,NA,Actor
+Robert Mitchum,Q16472,591/000022525,6-Aug-1917,"Bridgeport, CTDied: 1-Jul-1997",Male,White,Straight,Actor
+J. Carrol Naish,Q642876,174/000205556,21-Jan-1896,New York City,Male,White,Straight,Actor
+Eve Arden,Q255630,738/000043609,30-Apr-1908,"Mill Valley, CADied: 12-Nov-1990",Female,White,Straight,Actor
+Ann Blyth,Q255378,360/000078126,16-Aug-1928,"Mount Kisco, NY",Female,White,Straight,Actor
+Joan Lorring,Q4689,114/000351058,17-Apr-1926,Hong Kong,Female,White,Straight,Actor
+Barry Fitzgerald,Q290666,126/000063934,10-Mar-1888,"Dublin, Ireland",Male,White,NA,Actor
+Cary Grant,Q83410,657/000026579,18-Jan-1904,"Bristol, England",Male,White,Bisexual,Actor
+Alexander Knox,Q545858,659/000135254,16-Jan-1907,"Strathroy, Ontario, Canada",Male,White,Straight,Actor
+Claudette Colbert,Q203819,935/000043806,13-Sep-1903,"Paris, France",Female,White,Straight,Actor
+Henry King,Q577527,NA,NA,NA,NA,NA,NA,NA
+Hume Cronyn,Q395205,838/000031745,18-Jul-1911,"London, Ontario, Canada",Male,White,Straight,Actor
+Monty Woolley,Q1393843,605/000092329,17-Aug-1888,New York City,Male,White,Gay,Actor
+Aline MacMahon,Q247662,188/000133786,3-May-1899,Mc,Female,White,Straight,Actor
+Michael Curtiz,Q51491,676/000032580,24-Dec-1886,"Budapest, Hungary",Male,White,Straight,Film Director
+Walter Pidgeon,Q350640,253/000043124,23-Sep-1897,"East St. John, New Brunswick, Canada",Male,White,Bisexual,Actor
+Casablanca,Q7903,NA,NA,NA,NA,NA,NA,NA
+Jean Arthur,Q229338,545/000031452,17-Oct-1900,"Plattsburgh, NYDied: 19-Jun-1991",Female,White,Matter of Dispute,Actor
+Joan Fontaine,Q95076,487/000026409,22-Oct-1917,"Tokyo, Japan",Female,White,Straight,Actor
+,NULL,NA,NA,NA,NA,NA,NA,NA
+Ernst Lubitsch,Q51562,004/000032905,28-Jan-1892,"Berlin, Germany",Male,White,Straight,Film Director
+Paul Lukas,Q182057,713/000042587,26-May-1887,"Budapest, Hungary",Male,White,Straight,Actor
+Akim Tamiroff,Q418424,752/000168248,29-Oct-1899,"Tiflis, Georgia",Male,White,Straight,Actor
+Watch on the Rhine,Q920105,NA,NA,NA,NA,NA,NA,NA
+Paulette Goddard,Q95050,291/000044159,3-Jun-1910,"Queens, NYDied: 23-Apr-1990",Female,White,Straight,Actor
+Lucile Watson,Q267829,782/000134380,27-May-1879,"Quebec, Canada",Female,White,Straight,Actor
+Teresa Wright,Q230136,580/000045445,27-Oct-1918,New York City,Female,White,Straight,Actor
+Sam Wood,Q457269,239/000033140,10-Jul-1883,"Philadelphia, PADied: 22-Sep-1949",Male,White,Straight,Film Director
+Mervyn LeRoy,Q103788,374/000041251,15-Oct-1900,"San Francisco, CADied: 13-Sep-1987",Male,White,Straight,Film Director
+John Farrow,Q547495,344/000078110,10-Feb-1904,"Sydney, New South Wales, Australia",Male,White,Straight,"Screenwriter, Film Director"
+William Bendix,Q2005629,727/000031634,14-Jan-1906,New York City,Male,White,Straight,Actor
+Frank Morgan,Q200514,373/000110043,1-Jun-1890,New York City,Male,White,Straight,Actor
+Henry Travers,Q960050,279/000130886,5-Mar-1874,"Berwick-Upon-Tweed, Northumberland, England",Male,White,Straight,Actor
+Van Heflin,Q350678,680/000042554,13-Dec-1910,"Walters, OKDied: 23-Jul-1971",Male,White,Straight,Actor
+Susan Peters,Q255800,453/000162964,3-Jul-1921,"Spokane, WADied: 23-Oct-1952",Female,White,Straight,Actor
+Dame May Whitty,Q240193,521/000138107,19-Jun-1865,"Liverpool, England",Female,White,Straight,Actor
+Robert Montgomery,Q2796467,NA,NA,NA,NA,NA,NA,NA
+Orson Welles,Q24829,461/000032365,6-May-1915,"Kenosha, WIDied: 10-Oct-1985",Male,White,Straight,"Actor, Radio Personality, Film Director"
+Alexander Hall,Q1968780,381/000134976,11-Jan-1894,"Boston, MADied: 30-Jul-1968",Male,White,Straight,Film Director
+Howard Hawks,Q51581,670/000032574,30-May-1896,"Goshen, INDied: 26-Dec-1977",Male,White,Straight,Film Director
+Walter Brennan,Q219521,347/000032251,25-Jul-1894,"Swampscott, MADied: 21-Sep-1974",Male,White,Straight,Actor
+James Gleason,Q726398,177/000130784,23-May-1882,New York City,Male,White,Straight,Actor
+Sydney Greenstreet,Q656507,395/000044263,27-Dec-1879,"Sandwich, Kent, England",Male,White,Straight,Actor
+Donald Crisp,Q367073,689/000031596,27-Jul-1880,"London, England",Male,White,Straight,Actor
+Sara Allgood,Q238070,313/000278476,31-Oct-1879,"Dublin, Ireland",Female,White,Straight,Actor
+Patricia Collinge,Q177208,NA,NA,NA,NA,NA,NA,NA
+Margaret Wycherly,Q4690,791/000133392,26-Oct-1881,"London, England",Female,White,Straight,Actor
+Charlie Chaplin,Q882,876/000023807,16-Apr-1889,"London, England",Male,White,Straight,"Actor, Film Director"
+Raymond Massey,Q531461,837/000078603,30-Aug-1896,"Toronto, Ontario, Canada",Male,White,Straight,Actor
+Martha Scott,Q236394,717/000132321,22-Sep-1912,"Jamesport, MODied: 28-May-2003",Female,White,Straight,Actor
+Ginger Rogers,Q95089,635/000043506,16-Jul-1911,"Independence, MODied: 25-Apr-1995",Female,White,Straight,"Dancer, Singer, Actor"
+Albert Bassermann,Q64150,420/000029333,7-Sep-1867,"Mannheim, Germany",Male,White,Straight,Actor
+William Gargan,Q1358712,470/000213828,17-Jul-1905,"Brooklyn, NYDied: 17-Feb-1979",Male,White,Straight,Actor
+Jack Oakie,Q545846,466/000102160,12-Nov-1903,"Sedalia, MODied: 23-Jan-1978",Male,White,Straight,Actor
+James Stephenson,Q727015,NA,NA,NA,NA,NA,NA,NA
+Judith Anderson,Q230415,694/000119337,10-Feb-1897,"Adelaide, South Australia, Australia",Female,White,Straight,Actor
+Ruth Hussey,Q295679,413/000110083,30-Oct-1911,"Providence, RIDied: 19-Apr-2005",Female,White,Straight,Actor
+Barbara O'Neil,Q113566,118/000063926,17-Jul-1910,"St. Louis, MODied: 3-Sep-1980",Female,White,Straight,Actor
+Victor Fleming,Q62503,416/000041293,23-Feb-1883,"Pasadena, CADied: 6-Jan-1949",Male,White,Straight,Film Director
+Clark Gable,Q71243,156/000027075,1-Feb-1901,"Cadiz, OHDied: 16-Nov-1960",Male,White,Straight,Actor
+Robert Donat,Q116983,742/000063553,18-Mar-1905,"Withington, Manchester, England",Male,White,Straight,Actor
+Greta Garbo,Q5443,224/000022158,18-Sep-1905,"Stockholm, Sweden",Female,White,Bisexual,Actor
+Brian Aherne,Q911766,006/000132607,2-May-1902,"King's Norton, Worcestershire, England",Male,White,Straight,Actor
+Harry Carey,Q1586425,NA,NA,NA,NA,NA,NA,NA
+Brian Donlevy,Q912097,979/000078745,9-Feb-1901,"Portadown, Craigavon District, Northern Ireland",Male,White,Straight,Actor
+Thomas Mitchell,Q418582,NA,NA,NA,NA,NA,NA,NA
+Geraldine Fitzgerald,Q236396,360/000110030,24-Nov-1913,"Dublin, Ireland",Female,White,Straight,Actor
+Edna May Oliver,Q242548,041/000130648,9-Nov-1883,"Malden, MADied: 9-Nov-1942",Female,White,Straight,Actor
+Maria Ouspenskaya,Q255808,135/000133733,29-Jul-1876,"Tula, Russia",Female,White,NA,Actor
+Leslie Howard,Q340455,NA,NA,NA,NA,NA,NA,NA
+Norma Shearer,Q95019,813/000063624,10-Aug-1902,"Montreal, Quebec, Canada",Female,White,Straight,Actor
+Margaret Sullavan,Q238036,857/000118503,16-May-1911,"Norfolk, VADied: 1-Jan-1960",Female,White,Straight,Actor
+Norman Taurog,Q95111,544/000041421,23-Feb-1899,"Chicago, ILDied: 7-Apr-1981",Male,White,Straight,Film Director
+Gene Lockhart,Q1370701,221/000078984,18-Jul-1891,"London, Ontario, Canada",Male,White,Straight,Actor
+Robert Morley,Q965379,914/000102608,26-May-1908,"Semley, Wiltshire, England",Male,White,Straight,Actor
+Basil Rathbone,Q336865,688/000031595,13-Jun-1892,"Johannesburg, South Africa",Male,White,Straight,Actor
+Beulah Bondi,Q466440,241/000130848,3-May-1888,"Chicago, ILDied: 1-Jan-1981",Female,White,NA,Actor
+Billie Burke,Q235639,564/000056396,7-Aug-1885,"Washington, DCDied: 14-May-1970",Female,White,Straight,Actor
+Spring Byington,Q267803,391/000109064,17-Oct-1886,"Colorado Springs, CODied: 7-Sep-1971",Female,White,Bisexual,Actor
+Miliza Korjus,Q271465,NA,NA,NA,NA,NA,NA,NA
+Janet Gaynor,Q182462,129/000043000,6-Oct-1906,"Philadelphia, PADied: 14-Sep-1984",Female,White,Straight,Actor
+William Dieterle,Q55413,406/000041283,15-Jul-1893,"Ludwigshafen am Rhein, Rhineland-Palatinate, Germany",Male,White,Straight,Film Director
+Sidney Franklin,Q385372,NA,NA,NA,NA,NA,NA,NA
+Gregory La Cava,Q269585,429/000138015,10-Mar-1892,"Towanda, PADied: 1-Mar-1952",Male,White,Straight,Film Director
+William Wellman,Q290962,736/000043607,29-Feb-1896,"Brookline, MADied: 9-Dec-1975",Male,White,Straight,Film Director
+Luise Rainer,Q18994,796/000030706,12-Jan-1910,"Dusseldorf, Germany",Female,White,Straight,Actor
+Ralph Bellamy,Q364135,317/000026239,17-Jun-1904,"Chicago, ILDied: 29-Nov-1991",Male,White,Straight,Actor
+H. B. Warner,Q1562547,199/000205581,26-Oct-1875,"London, England",Male,White,Straight,Actor
+Roland Young,Q1371212,278/000130885,11-Nov-1887,"London, England",Male,White,Straight,Actor
+Joseph Schildkraut,Q93632,115/000063923,22-Mar-1896,"Vienna, Austria",Male,White,Straight,Actor
+Andrea Leeds,Q272096,178/000135770,14-Aug-1914,"Butte, MTDied: 21-May-1984",Female,White,Straight,Actor
+Anne Shirley,Q771213,NA,NA,NA,NA,NA,NA,NA
+May Whitty,Q240193,521/000138107,19-Jun-1865,"Liverpool, England",Female,White,Straight,Actor
+Gladys George,Q242460,462/000213820,13-Sep-1900,"Patten, MEDied: 8-Dec-1954",Female,White,Straight,Actor
+Carole Lombard,Q207739,708/000031615,6-Oct-1908,"Fort Wayne, INDied: 16-Jan-1942",Female,White,Straight,Actor
+Robert Z. Leonard,Q269731,300/000044168,7-Oct-1889,"Chicago, ILDied: 27-Aug-1968",Male,White,Straight,Film Director
+W. S. Van Dyke,Q547078,328/000078094,21-Mar-1889,"San Diego, CADied: 5-Feb-1943",Male,White,Straight,Film Director
+Mischa Auer,Q1375447,129/000068922,17-Nov-1905,"St. Petersburg, Russia",Male,White,Straight,Actor
+Stuart Erwin,Q944719,473/000213831,14-Feb-1903,"Squaw Valley, CADied: 21-Dec-1967",Male,White,Straight,Actor
+Alice Brady,Q233856,079/000063887,2-Nov-1892,New York City,Female,White,Straight,Actor
+Bonita Granville,Q271696,362/000130969,2-Feb-1923,"Chicago, ILDied: 11-Oct-1988",Female,White,Straight,Actor
+Franchot Tone,Q457229,429/000043300,27-Feb-1905,"Niagara Falls, NYDied: 18-Sep-1968",Male,White,Straight,Actor
+Elisabeth Bergner,Q93711,295/000354230,22-Aug-1897,"Drohobycz, Austria-Hungary",Female,White,Straight,Actor
+Miriam Hopkins,Q242477,460/000066262,18-Oct-1902,"Savannah, GADied: 9-Oct-1972",Female,White,Straight,Actor
+Merle Oberon,Q230958,927/000043798,19-Feb-1911,"Bombay, India",Female,Multiracial,Straight,Actor
+Henry Hathaway,Q457250,428/000041305,13-Mar-1898,"Sacramento, CADied: 11-Feb-1985",Male,White,Straight,Film Director
+Frank Lloyd,Q28941,626/000042500,2-Feb-1886,"Glasgow, Scotland",Male,White,Straight,Film Director
+Grace Moore,Q253757,478/000135073,5-Dec-1898,"Slabtown, TNDied: 26-Jan-1947",Female,White,Straight,"Singer, Actor"
+Victor Schertzinger,Q707999,671/000174149,8-Apr-1890,"Mahanoy City, PADied: 26-Oct-1941",Male,White,Straight,"Film Director, Composer"
+May Robson,Q259600,177/000205559,19-Apr-1858,"Melbourne, Victoria, Australia",Female,White,Straight,Actor
+Diana Wynyard,Q272091,519/000278682,16-Jan-1906,"London, England",Female,White,Straight,Actor
+Frank Borzage,Q369190,292/000044160,23-Apr-1894,"Salt Lake City, UTDied: 19-Jun-1962",Male,White,Straight,Film Director
+Alfred Lunt,Q1246683,661/000107340,12-Aug-1892,"Milwaukee, WIDied: 3-Aug-1977",Male,White,Straight,Actor
+Marie Dressler,Q253282,814/000063625,2-Nov-1868,"Cobourg, Ontario, Canada",Female,White,Straight,Actor
+Lynn Fontanne,Q242484,662/000107341,6-Dec-1887,"London, England",Female,White,Straight,Actor
+Josef von Sternberg,Q78719,320/000078086,29-May-1894,"Vienna, Austria",Male,White,Straight,Film Director
+Lionel Barrymore,Q295593,741/000043612,28-Apr-1878,"Philadelphia, PADied: 15-Nov-1954",Male,White,Straight,Actor
+Jackie Cooper,Q372073,918/000022852,15-Sep-1922,"Los Angeles, CADied: 3-May-2011",Male,White,Straight,"Actor, Film Director"
+Richard Dix,Q931926,975/000136567,18-Jul-1893,"St. Paul, MNDied: 20-Sep-1949",Male,White,Straight,Actor
+Adolphe Menjou,Q358379,627/000043498,18-Feb-1890,"Pittsburgh, PADied: 29-Oct-1963",Male,White,Straight,Actor
+Marlene Dietrich,Q4612,720/000031627,27-Dec-1901,"Berlin, Germany",Female,White,Bisexual,Actor
+Ann Harding,Q270390,150/000140727,7-Aug-1901,"Fort Sam Houston, TXDied: 1-Sep-1981",Female,White,Straight,Actor
+Lewis Milestone,Q285928,320/000043191,30-Sep-1895,"Chisinau, Moldova",Male,White,Straight,Film Director
+Wesley Ruggles,Q1064903,953/000133554,11-Jun-1889,"Los Angeles, CADied: 8-Jan-1972",Male,White,Straight,Film Director
+George Arliss,Q182229,740/000063551,10-Apr-1868,"London, England",Male,White,Straight,Actor
+Wallace Beery,Q322179,976/000043847,1-Apr-1885,"Kansas City, MODied: 15-Apr-1949",Male,White,Straight,Actor
+Maurice Chevalier,Q106001,950/000043821,12-Sep-1888,"Paris, France",Male,White,Bisexual,"Actor, Singer"
+Lawrence Tibbett,Q940686,NA,NA,NA,NA,NA,NA,NA
+Nancy Carroll,Q267836,710/000135305,19-Nov-1903,New York City,Female,White,Straight,Actor
+Ruth Chatterton,Q287713,207/000069000,24-Dec-1893,New York City,Female,White,Straight,Actor
+Warner Baxter,Q312073,739/000063550,29-Mar-1889,"Columbus, OHDied: 7-May-1951",Male,White,Straight,Actor
+George Bancroft,Q741482,810/000055645,3-Oct-1800,"Worcester, MADied: 17-Jan-1891",Male,White,Straight,"Historian, Government"
+Chester Morris,Q983420,455/000135050,16-Feb-1901,New York City,Male,White,Straight,Actor
+Lewis Stone,Q457220,981/000101678,15-Nov-1879,"Worcester, MADied: 12-Sep-1953",Male,White,Straight,Actor
+Mary Pickford,Q104109,683/000042557,8-Apr-1892,"Toronto, Ontario, Canada",Female,White,Straight,Actor
+Betty Compson,Q255846,NA,NA,NA,NA,NA,NA,NA
+Jeanne Eagels (posthumous nomination),NULL,NA,NA,NA,NA,NA,NA,NA
+Corinne Griffith,Q272079,NA,NA,NA,NA,NA,NA,NA
+Bessie Love,Q240238,556/000066358,10-Sep-1898,"Midland, TXDied: 26-Apr-1986",Female,White,Straight,Actor
+Harry Beaumont,Q669045,009/000135601,10-Feb-1888,"Abilene, KSDied: 22-Dec-1966",Male,White,Straight,Film Director
+Irving Cummings,Q727791,865/000133466,9-Oct-1888,New York City,Male,White,Straight,"Film Director, Actor"
+Richard Barthelmess,Q457293,137/000068930,9-May-1895,New York City,Male,White,Straight,Actor
+7th Heaven,Q270113,NA,NA,NA,NA,NA,NA,NA
+Louise Dresser,Q275952,NA,NA,NA,NA,NA,NA,NA
+Ted Wilde,Q1350928,NA,NA,NA,NA,NA,NA,NA
+Two Arabian Knights,Q374577,NA,NA,NA,NA,NA,NA,NA
+Herbert Brenon,Q957475,NA,NA,NA,NA,NA,NA,NA
